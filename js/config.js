@@ -161,6 +161,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "killerinp.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
+	{ogg: "earthwind.ogg", name: "Nations - Installation Music"},
 	{ogg: "blindinglights.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "Nations - Installation Music"},
 	{ogg: "fredbearfight.ogg", name: "Nations - Installation Music"},
