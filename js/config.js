@@ -167,6 +167,9 @@ var l_musicPlaylist = [
 	{ogg: "blindinglights.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "Nations - Installation Music"},
 	{ogg: "fredbearfight.ogg", name: "Nations - Installation Music"},
+	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
+	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
+	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 ];
 
@@ -185,7 +188,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Citizens are Including all Citizen's jobs and jobs which have Citizen properties! These will be cut down into 2 Category’s which are : - Children: Children's job – Ungrateful Toddler – Fat Kid – Bully]!",
-	"Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
+	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"You may raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes, and Battle Medics!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
@@ -195,7 +198,7 @@ var l_messages = [
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "It's forbidden to stay in the back rooms of the pizzeria during the day (excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
         "Doxxing is the posting of identifying information about yourself or someone else. Doxxing is against the rules on Model. Even if you are an adult, doxxing yourself may encourage younger members of the model to do the same, so all forms of it are banned. There are several things that constitute doxxing!",
-        "You're not allowed to ask someone if they can put a hit on a specific player, this also counts when you ask someone ``can you please place a Hit!",
+        "ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
         "It's okay to make lewd jokes, but try not to be too vulgar, because it can make everyone else in the Server feel uncomfortable. Don't post pornographic images!",
         "Animatronics such as the Withered once and the Golden once have to stay in the Basement UNLESS the basement door is open. - Asking an Admin to open the Door will not help !! - Changing jobs to open the door and then changing jobs back to an Animatronic count as Failrp and will result in a warning!",
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
@@ -213,7 +216,7 @@ var l_messages = [
         "ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "No jokes about mental illnesses, Sexualities, or religions/political stuff. (Ex. Cancer, Autism, Gay, Etc!",
-        "Don't speak or joke about DDOS or DOXING, even in role-play!",
+        "Do not RDM. - This stands for a random deathmatch. You cannot go up to people and just randomly shoot/kill them!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
