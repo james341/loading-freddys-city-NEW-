@@ -189,7 +189,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Citizens are Including all Citizen's jobs and jobs which have Citizen properties! These will be cut down into 2 Category’s which are : - Children: Children's job – Ungrateful Toddler – Fat Kid – Bully]!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
-	"You may raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes, and Battle Medics!",
+	"Obviously, please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "Advertising a platform/service can risk in punishment if done too much (ie: continuos attempts to advertise any service/platform which you own and/or are a high-ranking member!",
