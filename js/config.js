@@ -162,6 +162,7 @@ var l_musicPlaylist = [
 	{ogg: "killerinp.ogg", name: "Nations - Installation Music"},
 	{ogg: "stopmedsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
+	{ogg: "spaceoddityds.ogg", name: "Nations - Installation Music"},
 	{ogg: "freddyspower.ogg", name: "Nations - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
 	{ogg: "blindinglights.ogg", name: "Nations - Installation Music"},
