@@ -160,18 +160,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "killerinp.ogg", name: "Nations - Installation Music"},
-	{ogg: "stopmedsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "spaceoddityds.ogg", name: "Nations - Installation Music"},
-	{ogg: "freddyspower.ogg", name: "Nations - Installation Music"},
-	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
-	{ogg: "blindinglights.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafyouspinme.ogg", name: "Nations - Installation Music"},
-	{ogg: "fredbearfight.ogg", name: "Nations - Installation Music"},
-	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
-	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "childrensrequie.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
+	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 ];
 
