@@ -161,6 +161,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
+	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafnewstwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafnewsone.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
