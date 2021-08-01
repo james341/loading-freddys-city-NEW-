@@ -184,8 +184,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Citizens are Including all Citizen's jobs and jobs which have Citizen properties! These will be cut down into 2 Category’s which are : - Children: Children's job – Ungrateful Toddler – Fat Kid – Bully]!",
-	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
+	"Animatronics cannot kill during the day. - Animatronics can kill when the timer hits 12:00 am at night in-game time!",
+	"Do not abuse the fading door. (Using your real keyboard to open fading doors!",
 	"Obviously, please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
@@ -209,10 +209,10 @@ var l_messages = [
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said action!",
         "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
         "Animatronics cannot exit the restaurant They cannot chase players outside the restaurant, but they can do /me grabs child before they leave the restaurant!",
-        "These rules are in place for the general health of the community. They exist for the sole purpose of helping the community prosper and expand!",
+        "As mayor, you are not allowed to put KOS with laws. ( E.g. KOS if guns out in Public!",
         "ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "No jokes about mental illnesses, Sexualities, or religions/political stuff. (Ex. Cancer, Autism, Gay, Etc!",
+        "No no-collided bulletproof props. Defenders can jump In and out of them and this action is deemed unfair and prop abuse!",
         "No concentration Camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
