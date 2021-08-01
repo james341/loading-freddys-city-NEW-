@@ -160,6 +160,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
+	{ogg: "absofacto.ogg", name: "Nations - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
