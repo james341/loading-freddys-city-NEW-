@@ -160,6 +160,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
+	{ogg: "idk.ogg", name: "Nations - Installation Music"},
 	{ogg: "absofacto.ogg", name: "Nations - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
@@ -186,7 +187,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Animatronics cannot kill during the day. - Animatronics can kill when the timer hits 12:00 am at night in-game time!",
+	"Respect everyone. No shit-talking (Swearing in /OOC), purposefully annoying people, or Trolling!",
 	"Do not abuse the fading door. (Using your real keyboard to open fading doors!",
 	"Obviously, please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
