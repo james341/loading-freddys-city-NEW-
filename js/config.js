@@ -170,7 +170,7 @@ var l_musicPlaylist = [
 	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafnewstwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafnewsone.ogg", name: "Nations - Installation Music"},
-	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
+	{ogg: "lefestin.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
@@ -189,7 +189,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Respect everyone. No shit-talking (Swearing in /OOC), purposefully annoying people, or Trolling!",
 	"Do not abuse the fading door. (Using your real keyboard to open fading doors!",
-	"Obviously, please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
+	"DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "Advertising a platform/service can risk in punishment if done too much (ie: continuos attempts to advertise any service/platform which you own and/or are a high-ranking member!",
