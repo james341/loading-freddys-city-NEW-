@@ -161,6 +161,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
 	{ogg: "idk.ogg", name: "Nations - Installation Music"},
+	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "absofacto.ogg", name: "Nations - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
@@ -224,7 +225,7 @@ var l_messages = [
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!"
+        "These rules are in place for the general health of the community. They exist for the sole purpose of helping the community prosper and Expand!"
 
 ];
 
