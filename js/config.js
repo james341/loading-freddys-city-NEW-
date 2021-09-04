@@ -160,7 +160,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
-	{ogg: "idk.ogg", name: "Nations - Installation Music"},
+	{ogg: "soundtrackjazz.ogg", name: "Nations - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "absofacto.ogg", name: "Nations - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
@@ -188,7 +188,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Respect everyone. No shit-talking (Swearing in /OOC), purposefully annoying people, or Trolling!",
+	"Do NOT threaten to DDoS the server - This will result in a permanent ban, joke or not!",
 	"Do not abuse the fading door. (Using your real keyboard to open fading doors!",
 	"DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
@@ -214,10 +214,10 @@ var l_messages = [
         "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
         "Animatronics cannot exit the restaurant They cannot chase players outside the restaurant, but they can do /me grabs child before they leave the restaurant!",
         "No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
-        "ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
+        "you must wait until the raid is over before you can return to RP in your base (Essentially you have one life in a raid and once you die you have to wait for the raid to be over to come back into your property for RP or defensive reasons!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "No no-collided bulletproof props. Defenders can jump In and out of them and this action is deemed unfair and prop abuse!",
-        "No concentration Camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated!",
+        "You may Raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes, and Battle Medics!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
@@ -225,7 +225,7 @@ var l_messages = [
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "These rules are in place for the general health of the community. They exist for the sole purpose of helping the community prosper and Expand!"
+        "Do not build on rooftops that used for admin sits (shown by text screens). If building on a rooftop a solid staircase or ramp is needed!"
 
 ];
 
