@@ -162,15 +162,15 @@ var l_musicPlaylist = [
 	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
 	{ogg: "soundtrackjazz.ogg", name: "Nations - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "absofacto.ogg", name: "Nations - Installation Music"},
+	{ogg: "summersmile.ogg", name: "Nations - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "freddyspower.ogg", name: "Nations - Installation Music"},
+	{ogg: "springInmystep.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafnewstwo.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafnewsone.ogg", name: "Nations - Installation Music"},
+	{ogg: "sugarzone.ogg", name: "Nations - Installation Music"},
 	{ogg: "lefestin.ogg", name: "Nations - Installation Music"},
 ];
 
