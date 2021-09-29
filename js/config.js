@@ -161,8 +161,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
 	{ogg: "soundtrackjazz.ogg", name: "Nations - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "summersmile.ogg", name: "Nations - Installation Music"},
+	{ogg: "tunnewdsafnewtun.ogg", name: "Nations - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
 	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
@@ -171,7 +170,6 @@ var l_musicPlaylist = [
 	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafnewstwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "sugarzone.ogg", name: "Nations - Installation Music"},
-	{ogg: "lefestin.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
@@ -188,9 +186,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Do NOT threaten to DDoS the server - This will result in a permanent ban, joke or not!",
-	"Do not abuse the fading door. (Using your real keyboard to open fading doors!",
-	"DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
+	"RP 1. Respect your higher-ups. Staff's decision on punishment!",
+	"Mingeing will not be tolerated unless there is a defined OOC Gathering!",
+	"Evading a Punishment by using an alternative account is not allowed. If caught, you will be kicked. If your original account was banned, your alternative account will be also!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "Advertising a platform/service can risk in punishment if done too much (ie: continuos attempts to advertise any service/platform which you own and/or are a high-ranking member!",
@@ -199,7 +197,7 @@ var l_messages = [
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "It's forbidden to stay in the back rooms of the pizzeria during the day (excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
         "Doxxing is the posting of identifying information about yourself or someone else. Doxxing is against the rules on Model. Even if you are an adult, doxxing yourself may encourage younger members of the model to do the same, so all forms of it are banned. There are several things that constitute doxxing!",
-        "Entering, Stealing, and lockpicking military vehicles are not allowed. (Unless your role is within the Military!",
+        "Users who are permanently banned or exiled may also be refused service by our various partners at their own discretion. If you believe that you have been banned by mistake, unjustly, or just regretful for being banned, appeals can be made and should be Directed!",
         "Do not impersonate other players, staff, content creators, etc!",
         "Animatronics such as the Withered once and the Golden once have to stay in the Basement UNLESS the basement door is open. - Asking an Admin to open the Door will not help !! - Changing jobs to open the door and then changing jobs back to an Animatronic count as Failrp and will result in a warning!",
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
