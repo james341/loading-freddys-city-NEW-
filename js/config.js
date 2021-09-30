@@ -159,16 +159,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "pineradio.ogg", name: "Nations - Installation Music"},
-	{ogg: "soundtrackjazz.ogg", name: "Nations - Installation Music"},
 	{ogg: "tunnewdsafnewtun.ogg", name: "Nations - Installation Music"},
-	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
-	{ogg: "pineradiotwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
-	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
+	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 	{ogg: "springInmystep.ogg", name: "Nations - Installation Music"},
-	{ogg: "pineradiofour.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafnewstwo.ogg", name: "Nations - Installation Music"},
 	{ogg: "sugarzone.ogg", name: "Nations - Installation Music"},
 ];
 
@@ -195,13 +189,11 @@ var l_messages = [
         "Do not PowerGame - You are not a superman. You cannot attack a group of people that is 2 times the size of your group. Example: 1 by 2, 2 by 4, and so on. (excl. self-defense) [Punishment: warn / Ban 10-20min!", 
         "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
-        "It's forbidden to stay in the back rooms of the pizzeria during the day (excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
-        "Doxxing is the posting of identifying information about yourself or someone else. Doxxing is against the rules on Model. Even if you are an adult, doxxing yourself may encourage younger members of the model to do the same, so all forms of it are banned. There are several things that constitute doxxing!",
+        "It's forbidden to stay in the back rooms of the pizzeria during the day (Excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
         "Users who are permanently banned or exiled may also be refused service by our various partners at their own discretion. If you believe that you have been banned by mistake, unjustly, or just regretful for being banned, appeals can be made and should be Directed!",
         "Do not impersonate other players, staff, content creators, etc!",
         "Animatronics such as the Withered once and the Golden once have to stay in the Basement UNLESS the basement door is open. - Asking an Admin to open the Door will not help !! - Changing jobs to open the door and then changing jobs back to an Animatronic count as Failrp and will result in a warning!",
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
-        "we do have a Rapist job but he is only allowed to rape but not to take it too far only for Roleplay purpose! ( nothing like /me sucks … and stuff don’t do that you gross people!",
         "KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
         "Fear RP is in effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
         "RP is acting out the role of your character within the game. Behave as you would in your character's place in the context of the situation!",
@@ -214,10 +206,8 @@ var l_messages = [
         "No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
         "you must wait until the raid is over before you can return to RP in your base (Essentially you have one life in a raid and once you die you have to wait for the raid to be over to come back into your property for RP or defensive reasons!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "No no-collided bulletproof props. Defenders can jump In and out of them and this action is deemed unfair and prop abuse!",
         "You may Raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes, and Battle Medics!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
-        "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
         "No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
