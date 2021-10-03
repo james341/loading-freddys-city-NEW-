@@ -163,6 +163,7 @@ var l_musicPlaylist = [
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
+	{ogg: "adventuresajhimitsu.ogg", name: "Nations - Installation Music"},
 	{ogg: "springInmystep.ogg", name: "Nations - Installation Music"},
 	{ogg: "sugarzone.ogg", name: "Nations - Installation Music"},
 ];
@@ -203,7 +204,6 @@ var l_messages = [
         "Moderators reserve the right to punish/warn a user even if something isn't on the rules. (As long as it is fair, obviously!",
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said action!",
         "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
-        "Animatronics cannot exit the restaurant They cannot chase players outside the restaurant, but they can do /me grabs child before they leave the restaurant!",
         "No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
         "you must wait until the raid is over before you can return to RP in your base (Essentially you have one life in a raid and once you die you have to wait for the raid to be over to come back into your property for RP or defensive reasons!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
