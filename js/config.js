@@ -161,6 +161,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "tunnewdsafnewtun.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "Nations - Installation Music"},
+	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 	{ogg: "springInmystep.ogg", name: "Nations - Installation Music"},
 	{ogg: "sugarzone.ogg", name: "Nations - Installation Music"},
