@@ -160,11 +160,9 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "tunnewdsafnewtun.ogg", name: "Nations - Installation Music"},
-	{ogg: "kevinjayjay.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "adventuresajhimitsu.ogg", name: "Nations - Installation Music"},
 	{ogg: "springInmystep.ogg", name: "Nations - Installation Music"},
-	{ogg: "sugarzone.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
@@ -201,7 +199,6 @@ var l_messages = [
         "You may not destroy your valuables in a raid to prevent them from being stolen. Leaving and then rejoining within 20 minutes to avoid printer loss and get them back is considered FailRP!",
         "NLR - After your death, you forget everything: those who killed you, whom you knew, the orders that were given to you and where you were. After you have died in a certain location, you can return there after 3 minutes. It is FORBIDDEN to return to the raid / capture / robbery after death. [Punishment: warn / Ban 10-20min]!",
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said Action!",
-        "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
         "No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "You may Raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes, and Battle Medics!",
