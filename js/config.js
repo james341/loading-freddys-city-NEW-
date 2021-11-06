@@ -159,10 +159,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "tunnewdsafnewtun.ogg", name: "Nations - Installation Music"},
+	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "adventuresajhimitsu.ogg", name: "Nations - Installation Music"},
-	{ogg: "springInmystep.ogg", name: "Nations - Installation Music"},
+	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
