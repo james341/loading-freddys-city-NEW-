@@ -163,7 +163,7 @@ var l_musicPlaylist = [
 	{ogg: "dsaflifemar.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "adventuresajhimitsu.ogg", name: "Nations - Installation Music"},
-	{ogg: "xmanback.ogg", name: "Nations - Installation Music"},
+	{ogg: "dsaffeelingood.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
@@ -186,12 +186,10 @@ var l_messages = [
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "Advertising a platform/service can risk in punishment if done too much (ie: continuos attempts to advertise any service/platform which you own and/or are a high-ranking member!",
-        "Do not PowerGame - You are not a superman. You cannot attack a group of people that is 2 times the size of your group. Example: 1 by 2, 2 by 4, and so on. (excl. self-defense) [Punishment: warn / Ban 10-20min!", 
         "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "It's forbidden to stay in the back rooms of the pizzeria during the day (Excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
         "Users who are permanently banned or exiled may also be refused service by our various partners at their own discretion. If you believe that you have been banned by mistake, unjustly, or just regretful for being banned, appeals can be made and should be Directed!",
-        "Do not impersonate other players, staff, content creators, etc!",
         "Animatronics such as the Withered once and the Golden once have to stay in the Basement UNLESS the basement door is open. - Asking an Admin to open the Door will not help !! - Changing jobs to open the door and then changing jobs back to an Animatronic count as Failrp and will result in a warning!",
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
         "Fear RP is in Effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
