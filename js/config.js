@@ -160,6 +160,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "ghostbusterdsaf.ogg", name: "Nations - Installation Music"},
+	{ogg: "smokindsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsaffeelingood.ogg", name: "Nations - Installation Music"},
 	{ogg: "spaceoddityds.ogg", name: "Nations - Installation Music"},
@@ -197,10 +198,10 @@ var l_messages = [
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
         "Fear RP is in Effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
         "RP is acting out the role of your character within the game. Behave as you would in your character's place in the context of the situation!",
-        "You may not destroy your valuables in a raid to prevent them from being stolen. Leaving and then rejoining within 20 minutes to avoid printer loss and get them back is considered FailRP!",
+        "Do not edit or build your base during a raid. Aka Coming back after getting raided and then No-Colliding into the Base!",
         "NLR - After your death, you forget everything: those who killed you, whom you knew, the orders that were given to you and where you were. After you have died in a certain location, you can return there after 3 minutes. It is FORBIDDEN to return to the raid / capture / robbery after death. [Punishment: warn / Ban 10-20min]!",
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said Action!",
-        "No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
+        "All jobs (except children and co.)  can own a defense firearm (1 handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened.!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "You may Raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes, and Battle Medics!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
