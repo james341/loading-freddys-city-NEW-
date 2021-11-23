@@ -167,7 +167,7 @@ var l_musicPlaylist = [
 	{ogg: "spaceoddityds.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsaflifemar.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
-	{ogg: "adventuresajhimitsu.ogg", name: "Nations - Installation Music"},
+	{ogg: "davesbattletheme.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsaffeelingood.ogg", name: "Nations - Installation Music"},
 ];
 
