@@ -166,7 +166,7 @@ var l_musicPlaylist = [
 	{ogg: "dsaffeelingood.ogg", name: "Nations - Installation Music"},
 	{ogg: "spaceoddityds.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsaflifemar.ogg", name: "Nations - Installation Music"},
-	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
+	{ogg: "davethemeend3.ogg", name: "Nations - Installation Music"},
 	{ogg: "davesbattletheme.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsaffeelingood.ogg", name: "Nations - Installation Music"},
 ];
@@ -186,7 +186,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"RP 1. Respect your higher-ups. Staff's decision on punishment!",
-	"Mingeing will not be tolerated unless there is a defined OOC Gathering!",
+	"Animatronics cannot exit the restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the Restaurant!",
 	"Evading a Punishment by using an alternative account is not allowed. If caught, you will be kicked. If your original account was banned, your alternative account will be also!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
@@ -204,7 +204,7 @@ var l_messages = [
         "Parties may advert PARTY then the action they are making ie( RAID, MUG, KIDNAP, ETC ) letting all party members participate in that action together. Anyone involved is Placed under cooldown for said Action!",
         "All jobs (except children and co.)  can own a defense firearm (1 handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened.!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "You may Raid as Mob Boss, Mafia Leader, Thief, Pro Thief, Thief Custom Classes, and Battle Medics!",
+        "No concentration camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated) Stick figures are allowed, Maybe penis statues in the Forest!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
