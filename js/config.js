@@ -153,11 +153,12 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "smokindsaf.ogg", name: "Nations - Installation Music"},
+	{ogg: "music_childrensrequie.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "Nations - Installation Music"},
 	{ogg: "sbelevatorhappyending.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycaresoundtrack.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachforever.ogg", name: "Nations - Installation Music"},
-	{ogg: "davethemeend3.ogg", name: "Nations - Installation Music"},
+	{ogg: "lefestin.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsaffeelingood.ogg", name: "Nations - Installation Music"},
 ];
 
@@ -185,14 +186,12 @@ var l_messages = [
         "It's forbidden to stay in the back rooms of the pizzeria during the day (Excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
         "Animatronics such as the Withered once and the Golden once have to stay in the Basement UNLESS the basement door is open. - Asking an Admin to open the Door will not help !! - Changing jobs to open the door and then changing jobs back to an Animatronic count as Failrp and will result in a warning!",
         "RP is acting out the role of your character within the game. Behave as you would in your character's place in the context of the situation!",
-        "Do not edit or build your base during a raid. Aka Coming back after getting raided and then No-Colliding into the Base!",
         "NLR - After your death, you forget everything: those who killed you, whom you knew, the orders that were given to you and where you were. After you have died in a certain location, you can return there after 3 minutes. It is FORBIDDEN to return to the raid / capture / robbery after death. [Punishment: warn / Ban 10-20min]!",
         "All jobs (except children and co.)  can own a defense firearm (1 handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened.!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "No concentration camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated) Stick figures are allowed, Maybe penis statues in the Forest!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
-        "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
         "Do not build on rooftops that used for admin sits (shown by text screens). If building on a rooftop a solid staircase or ramp is needed!"
 
