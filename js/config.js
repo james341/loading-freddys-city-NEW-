@@ -154,6 +154,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "smokindsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "Nations - Installation Music"},
+	{ogg: "sbelevatorhappyending.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycaresoundtrack.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachforever.ogg", name: "Nations - Installation Music"},
 	{ogg: "davethemeend3.ogg", name: "Nations - Installation Music"},
