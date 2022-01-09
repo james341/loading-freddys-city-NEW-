@@ -153,12 +153,11 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "smokindsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "sunshinelollipops.ogg", name: "Nations - Installation Music"},
+	{ogg: "forgottensundayshow.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "Nations - Installation Music"},
 	{ogg: "sbelevatorhappyending.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycaresoundtrack.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachforever.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsaffeelingood.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
