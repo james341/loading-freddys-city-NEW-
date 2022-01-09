@@ -154,6 +154,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "smokindsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "forgottensundayshow.ogg", name: "Nations - Installation Music"},
+	{ogg: "freddyfazbearpizzeriasimulator.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "Nations - Installation Music"},
 	{ogg: "sbelevatorhappyending.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycaresoundtrack.ogg", name: "Nations - Installation Music"},
@@ -183,7 +184,7 @@ var l_messages = [
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "It's forbidden to stay in the back rooms of the pizzeria during the day (Excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
         "Animatronics such as the Withered once and the Golden once have to stay in the Basement UNLESS the basement door is open. - Asking an Admin to open the Door will not help !! - Changing jobs to open the door and then changing jobs back to an Animatronic count as Failrp and will result in a warning!",
-        "RP is acting out the role of your character within the game. Behave as you would in your character's place in the context of the situation!",
+        "You're not allowed to ask someone if they can put a hit on a specific Player, this also counts when you ask someone can you please place a hit!",
         "NLR - After your death, you forget everything: those who killed you, whom you knew, the orders that were given to you and where you were. After you have died in a certain location, you can return there after 3 minutes. It is FORBIDDEN to return to the raid / capture / robbery after death. [Punishment: warn / Ban 10-20min]!",
         "All jobs (except children and co.)  can own a defense firearm (1 handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened.!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
