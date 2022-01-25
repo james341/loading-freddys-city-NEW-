@@ -153,7 +153,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "smokindsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "forgottensundayshow.ogg", name: "Nations - Installation Music"},
+	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "freddyfazbearpizzeriasimulator.ogg", name: "Nations - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "Nations - Installation Music"},
 	{ogg: "sbelevatorhappyending.ogg", name: "Nations - Installation Music"},
@@ -175,7 +175,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"RP 1. Respect your higher-ups. Staff's decision on punishment!",
+	"Threats to other users of DDoS, Death, DoX, abuse, and other malicious threats are absolutely prohibited and disallowed. 8. Follow the Discord Community Guidelines!",
 	"Animatronics cannot exit the restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the Restaurant!",
 	"Evading a Punishment by using an alternative account is not allowed. If caught, you will be kicked. If your original account was banned, your alternative account will be also!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
@@ -192,7 +192,7 @@ var l_messages = [
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Do not build on rooftops that used for admin sits (shown by text screens). If building on a rooftop a solid staircase or ramp is needed!"
+        "You must respect all users, regardless of your liking towards them. Treat others the way you want to be treated!"
 
 ];
 
