@@ -154,7 +154,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "TitleScreen.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
-	{ogg: "music_absofacto.ogg", name: "Nations - Installation Music"},
+	{ogg: "soundtrackyeast.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
