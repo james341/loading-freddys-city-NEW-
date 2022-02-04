@@ -163,6 +163,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "superidomusicbox.ogg", name: "Nations - Installation Music"},
+	{ogg: "davethemeremake.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "soundtrackyeast.ogg", name: "Nations - Installation Music"},
 ];
@@ -185,7 +186,7 @@ var l_messages = [
 	"Animatronics cannot exit the restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the Restaurant!",
 	"Evading a Punishment by using an alternative account is not allowed. If caught, you will be kicked. If your original account was banned, your alternative account will be also!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
-        "Animatronics can KOS you from 12:00 am to 5:00 am in-game time They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
+        "No disrespectful behavior is allowed; insults, hate speech, and harassment are all prohibited. Keep all drama Elsewhere!",
         "Advertising a platform/service can risk in punishment if done too much (ie: continuos attempts to advertise any service/platform which you own and/or are a high-ranking member!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "It's forbidden to stay in the back rooms of the pizzeria during the day (Excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
