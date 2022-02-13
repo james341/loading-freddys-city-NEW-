@@ -162,7 +162,6 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "music_flipsidedsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "davethemeremake.ogg", name: "Nations - Installation Music"},
 	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "soundtrackyeast.ogg", name: "Nations - Installation Music"},
