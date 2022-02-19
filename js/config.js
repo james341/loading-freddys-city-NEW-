@@ -198,7 +198,7 @@ var l_messages = [
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Raiding is not allowed on the server, if you are seen encouraging it in this server or another server then you will be banned without appeal!"
+        "Toxicity, homophobia, racism and other discriminatory language is MAJORLY frowned upon and also illegal: So I don't advise you do it. (For ex: Retard, Schizo and many racial slurs!"
 
 ];
 
