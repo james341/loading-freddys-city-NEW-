@@ -163,7 +163,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "davethemeremake.ogg", name: "Nations - Installation Music"},
-	{ogg: "sugarzone.ogg", name: "Nations - Installation Music"},
+	{ogg: "smokindsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "soundtrackyeast.ogg", name: "Nations - Installation Music"},
 ];
 
