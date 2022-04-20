@@ -163,7 +163,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "davethemeremake.ogg", name: "Nations - Installation Music"},
-	{ogg: "killerinp.ogg", name: "Nations - Installation Music"},
+	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
 ];
@@ -196,13 +196,13 @@ var l_messages = [
         "Animatronics cannot exit the restaurant They cannot chase players outside the restaurant, but they can do /me grabs child before they leave the restaurant!",
         "These rules are in place for the general health of the community. They exist for the sole purpose of helping the community prosper and expand!",
         "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "No jokes about mental Illnesses, Sexualities, or Religions/political stuff. (Ex. Cancer, Autism, Gay, Etc!",
+        "No no-collided bulletproof props. Defenders can jump in and out of them and this action is deemed unfair and prop Abuse!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
         "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Harassing staff or higher ranking players for positions in regiments or a staff role is not allowed. If you are confused about your position or a potential promotion, contact a higher level staff member to confirm!"
+        "Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them!"
 
 ];
 
