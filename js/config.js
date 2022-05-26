@@ -164,6 +164,9 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
+	{ogg: "dsafahafefeat.ogg", name: "Nations - Installation Music"},
+	{ogg: "dsafyeasttwonine.ogg", name: "Nations - Installation Music"},
+	{ogg: "dsafremove.ogg", name: "Nations - Installation Music"},
 ];
 
 // Random music order?
