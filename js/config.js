@@ -163,6 +163,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
+	{ogg: "blueprint.ogg", name: "Nations - Installation Music"},
 	{ogg: "Idorathersleep.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafahafefeat.ogg", name: "Nations - Installation Music"},
@@ -186,7 +187,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned]!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
-	"Obviously, please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
+	"Please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
 	"This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
         "Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
