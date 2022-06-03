@@ -163,7 +163,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "davethemeremake.ogg.ogg", name: "Nations - Installation Music"},
+	{ogg: "Idorathersleep.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafahafefeat.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "Nations - Installation Music"},
@@ -184,7 +184,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door]!",
+	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned]!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Obviously, please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "This is an English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
@@ -199,7 +199,12 @@ var l_messages = [
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
-        "No concentration camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated) Stick figures are allowed, Maybe penis statues in the forest!",
+        "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
+	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
+	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
+	"No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
+	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
+	"No concentration camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated) Stick figures are allowed, Maybe penis statues in the forest!",
         "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
         "New Life Rule (NLR): Breaking NLR constitutes as returning to the place of your death within or before five minutes of your death. This can also mean returning and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a Verbal Warn, Warn or Ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR — don’t do it!"
 
