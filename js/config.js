@@ -198,7 +198,7 @@ var l_messages = [
 	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
 	"If staff deem a base too unfair or un-raidable they hold the right to tell you to fix the unfair sections. If you do not follow their request then you will be viable for warn/kick/ban!",
 	"Use common sense. Do not abuse exploits, loopholes around rules, or other!",
-	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
+	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
         "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
