@@ -163,6 +163,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "superIdolsng.ogg", name: "Nations - Installation Music"},
+	{ogg: "superIdolfullsong.ogg", name: "Nations - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
 	{ogg: "Idorathersleep.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
@@ -209,6 +210,7 @@ var l_messages = [
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
 	"No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
+	"Kidnapping is a fun way to make money off of other players, as-well as have a little fun in the meantime!",
 	"No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
