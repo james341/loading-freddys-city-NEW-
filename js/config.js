@@ -189,14 +189,14 @@ var l_messages = [
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Being in a public area (Players may free-roam the map. You may not KOS someone for entering an area you deem inappropriate, unless it is an area that you own, AND, you have a VALID KOS line!",
 	"Please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
-        "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!
+        "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
 	"Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
 	"No Racism or discrimination on textscreens, prop building, in voice chat, text chat, or anywhere else!",
 	"The Staff reserves the right to capture players’ screens to prevent cheating!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
 	"They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
 	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
-	"If staff deem a base too unfair or un-raidable they hold the right to tell you to fix the unfair sections. If you do not follow their request then you will be viable for warn/kick/ban!
+	"If staff deem a base too unfair or un-raidable they hold the right to tell you to fix the unfair sections. If you do not follow their request then you will be viable for warn/kick/ban!",
 	"Use common sense. Do not abuse exploits, loopholes around rules, or other!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
