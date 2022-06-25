@@ -186,10 +186,12 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
+	"Disrespecting any of our players and/or staff members for any reason, under any circumstances is strongly forbidden!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
+	"Reasons that can be included on the KOS sign may be: Loitering for more than 10 seconds, Guns out within base, Touching Keypads / Buttons, Micspamming within the base!",
 	"Being in a public area Players may free-roam the map You may not KOS someone for entering an area you deem inappropriate unless it is an area that you own, AND, you have a VALID KOS line!",
 	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
 	"Use common sense. Do not abuse exploits, loopholes around rules, or other!",
