@@ -185,18 +185,15 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Being in a public area (Players may free-roam the map. You may not KOS someone for entering an area you deem inappropriate, unless it is an area that you own, AND, you have a VALID KOS line!",
 	"Please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
-	"Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
-	"No Racism or discrimination on textscreens, prop building, in voice chat, text chat, or anywhere else!",
-	"The Staff reserves the right to capture players’ screens to prevent cheating!",
+	"Abide by the New Life Rule NLR You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
+	"The Staff reserves the right to capture players screens to prevent cheating!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
 	"They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
 	"Please do not abuse any tools The more abuse they get, the more limited it gets for everyone!",
-	"If staff deem a base too unfair or un-raidable they hold the right to tell you to fix the unfair sections. If you do not follow their request then you will be viable for warn/kick/ban!",
 	"Use common sense. Do not abuse exploits, loopholes around rules, or other!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
         "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
@@ -209,11 +206,9 @@ var l_messages = [
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
 	"No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
-	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
-	"No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Breaking NLR constitutes as returning to the place of your death within or before five minutes of your death. This can also mean returning and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a Verbal Warn, Warn or Ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR don’t do it!",
+        "Breaking NLR constitutes as returning to the place of your death within or before five minutes of your death. This can also mean returning and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a Verbal Warn, Warn or Ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR don’t do it!
 
 ];
 
