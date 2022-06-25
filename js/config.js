@@ -187,10 +187,16 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
+	"Being in a public area (Players may free-roam the map. You may not KOS someone for entering an area you deem inappropriate, unless it is an area that you own, AND, you have a VALID KOS line!",
 	"Please use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
-        "Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
+        "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!
+	"Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
+	"No Racism or discrimination on textscreens, prop building, in voice chat, text chat, or anywhere else!",
+	"The Staff reserves the right to capture players’ screens to prevent cheating!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
+	"They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
 	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
+	"If staff deem a base too unfair or un-raidable they hold the right to tell you to fix the unfair sections. If you do not follow their request then you will be viable for warn/kick/ban!
 	"Use common sense. Do not abuse exploits, loopholes around rules, or other!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
@@ -199,7 +205,7 @@ var l_messages = [
 	"It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
-        "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
+        "Don't walk up to somebody and say "I'm going to DDOS this fucking stupid server!" as a joke, it will be taken seriously and you will be permabanned!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
 	"No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
