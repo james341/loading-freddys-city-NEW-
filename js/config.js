@@ -164,6 +164,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "superIdolsng.ogg", name: "Nations - Installation Music"},
 	{ogg: "superIdolfullsong.ogg", name: "Nations - Installation Music"},
+	{ogg: "securitybreachforever.ogg", name: "Nations - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
 	{ogg: "Idorathersleep.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
