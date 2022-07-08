@@ -163,9 +163,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "superIdolsng.ogg", name: "Nations - Installation Music"},
-	{ogg: "sneighbourhood.ogg", name: "Nations - Installation Music"},
-	{ogg: "securitybreachforever.ogg", name: "Nations - Installation Music"},
-	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
+	{ogg: "kevinjayjay.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafahafefeat.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "Nations - Installation Music"},
