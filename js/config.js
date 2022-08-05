@@ -162,13 +162,13 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "comeandgetyourlove.ogg", name: "Nations - Installation Music"},
-	{ogg: "forgottensundayshow.ogg", name: "Nations - Installation Music"},
-	{ogg: "flipsidedsaf.ogg", name: "Nations - Installation Music"},
-	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
-	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
-	{ogg: "dsafyeasttwonine.ogg", name: "Nations - Installation Music"},
-	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
+	{ogg: "comeandgetyourlove.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "forgottensundayshow.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 ];
 
 // Random music order?
