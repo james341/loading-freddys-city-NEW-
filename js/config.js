@@ -164,7 +164,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "comeandgetyourlove.ogg", name: "Nations - Installation Music"},
 	{ogg: "forgottensundayshow.ogg", name: "Nations - Installation Music"},
-	{ogg: "TitleScreen.ogg", name: "Nations - Installation Music"},
+	{ogg: "salvagemusic.ogg", name: "Nations - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Nations - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "Nations - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "Nations - Installation Music"},
