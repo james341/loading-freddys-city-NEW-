@@ -162,11 +162,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "comeandgetyourlove.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "forgottensundayshow.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "kryefeaturingshadrow.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 ];
@@ -195,14 +193,11 @@ var l_messages = [
 	"Use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "signs most are placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
 	"Your base can't include movement impairing doorways or entrances, aka crouching, jumping!",
-	"Reasons that can be included on the KOS sign may be: Loitering for more than 10 seconds, Guns out within base, Touching Keypads / Buttons, Micspamming within the base!",
 	"Mugging is one of the most despised ways to play on DarkRP, however, it’s still allowed for player enjoyment!",
 	"You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
-        "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
-        "do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
-	"Dont Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
+        "Dont Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "No offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
 	"The most biggest rule that co-exist within RP is FearRP. it is the event where your character is in fear of their life and would not commit any actions that would go against that fear. The logic behind this rule can apply to many things!",
