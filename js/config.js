@@ -164,6 +164,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "kryefeaturingshadrow.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
