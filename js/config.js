@@ -162,7 +162,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "kryefeaturingshadrow.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "davethemeend3.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
@@ -198,11 +198,10 @@ var l_messages = [
 	"Mugging is one of the most despised ways to play on DarkRP, however, it’s still allowed for player enjoyment!",
 	"You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
-        "No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
         "Dont Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "No offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
-	"The most biggest rule that co-exist within RP is FearRP. it is the event where your character is in fear of their life and would not commit any actions that would go against that fear. The logic behind this rule can apply to many things!",
+	"FearRP is the event where your character is in fear of their life and would not commit any actions that would go against that fear. The logic behind this rule can apply to many things!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
 	"Do NOT threaten to DDoS the server - This will result in a permanent ban, joke or not!",
