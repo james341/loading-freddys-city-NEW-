@@ -162,11 +162,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "davethemeend3.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "【AN】 - Installation Music"},
 ];
