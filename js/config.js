@@ -166,8 +166,7 @@ var l_musicPlaylist = [
 	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "killerinp.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
 ];
 
 // Random music order?
@@ -186,7 +185,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"When playing as any Civil Protection Class, don't abuse it. You can and will get blacklisted(maybe also banned) if you do!",
 	"Disrespecting any of our players and/or staff members for any reason, under any circumstances is strongly forbidden!",
-	"Don't speak or joke about DDOS or DOXING, even in role-play. This will as stated in the General Rules almost Immediately result in a Perm Ban!",
+	"If its Serious or joke, about DDOS or DOXING, even in rr. This will as stated in the General Rules almost Immediately result in a Perm Ban!",
 	"You can identify your base as “building” with a text screen whenever you are building defenses initially. You must take the building sign down as soon as you are done. You can not raid a “building base!",
 	"You may not kill someone using discrimination based upon their race, sexual orientation, sex, etc. Doing such will be considered a higher count of RDM, and is subject to an immediate ban!",
 	"Exploiting is strictly forbidden. Our servers are designed to be as minimalistic with glitches and exploits as possible, however, it is not fully guaranteed that some glitches and exploits can slip by unnoticed. Should you find anything that needs to come to our attention, please submit a bug report immediately!",
