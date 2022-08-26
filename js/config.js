@@ -164,7 +164,6 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
 ];
@@ -183,16 +182,15 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"When playing as any Civil Protection Class, don't abuse it. You can and will get blacklisted(maybe also banned) if you do!",
-	"Disrespecting any of our players and/or staff members for any reason, under any circumstances is strongly forbidden!",
+	"When playing as any Civil Protection Class, don't abuse it. You can and will get blacklisted(maybe also banned) if you do so!",
+	"Disrespecting any of our players and/or staff members for any reason, under any circumstances, is strongly forbidden!",
 	"If its Serious or joke, about DDOS or DOXING, even in rr. This will as stated in the General Rules almost Immediately result in a Perm Ban!",
 	"You can identify your base as “building” with a text screen whenever you are building defenses initially. You must take the building sign down as soon as you are done. You can not raid a “building base!",
 	"You may not kill someone using discrimination based upon their race, sexual orientation, sex, etc. Doing such will be considered a higher count of RDM, and is subject to an immediate ban!",
 	"Exploiting is strictly forbidden. Our servers are designed to be as minimalistic with glitches and exploits as possible, however, it is not fully guaranteed that some glitches and exploits can slip by unnoticed. Should you find anything that needs to come to our attention, please submit a bug report immediately!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
-        "signs most are placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
-	"You can't include movement impairing doorways or entrances, aka crouching, jumping!",
+        "You can't include movement impairing doorways or entrances, aka crouching, jumping!",
 	"Mugging is one of the most despised ways to play on DarkRP, however, it’s still allowed for player enjoyment!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "Dont Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
@@ -200,10 +198,10 @@ var l_messages = [
         "FearRP is the event where your character is in fear of their life and would not commit any actions that would go against that fear. The logic behind this rule can apply to many things!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
-	"Do NOT threaten to DDoS the server - This will result in a permanent ban, joke or not!",
-	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
+	"Dont threaten to DDoS the server-This will result in a permanent ban, joke or not!",
+	"Staff has the final say; if they tell you to stop, you must stop. Otherwise, you can/will be warned!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
-	"No metagaming or trying to take advantage in-roleplay. It ruins the fun for those who take roleplaying seriously!",
+	"No metagaming or trying to take advantage of in-roleplay. It ruins the fun for those who take roleplaying seriously!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
         "Breaking NLR constitutes as returning to the place of your death within or before five minutes of your death. This can also mean returning and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a Verbal Warn, Warn or Ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR — don’t do it!"
