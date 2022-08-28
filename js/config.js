@@ -165,7 +165,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "dsaffeelingood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
 ];
 
