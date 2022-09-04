@@ -166,7 +166,7 @@ var l_musicPlaylist = [
 	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "Idorathersleep.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
 ];
 
 // Random music order?
@@ -192,7 +192,6 @@ var l_messages = [
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
         "You can't include movement impairing doorways or entrances, aka crouching, jumping!",
-	"Mugging is one of the most despised ways to play on DarkRP, however, it’s still allowed for player enjoyment!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "Dont Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "No offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
