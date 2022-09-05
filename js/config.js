@@ -163,7 +163,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "soundtrackyeast.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "Idorathersleep.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
