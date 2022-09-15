@@ -164,7 +164,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "soundtrackyeast.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "Idorathersleep.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
 ];
 
