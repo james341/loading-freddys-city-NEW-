@@ -165,6 +165,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "donstopmenowmusic.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "davethemeend3.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "Idorathersleep.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
@@ -206,7 +207,7 @@ var l_messages = [
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose. If someone does walk in the way, that is allowed as long as you repay them!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
 	"No metagaming or trying to take advantage of in-roleplay. It ruins the fun for those who take roleplaying seriously!",
-	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
+	"All bases must have the dimensions of two players wide (shoulder to shoulder) and two players back/front (four players should at least be able to fit into this space in two pairs!",
 	"Violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
         "All jobs (except children and co.) can own a defence firearm (1-handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened!"
 
