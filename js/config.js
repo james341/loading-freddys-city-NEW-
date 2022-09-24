@@ -184,7 +184,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"When playing as any Civil Protection Class, don't abuse it. You can and will get blacklisted(maybe also banned) if you do so!",
+	"Under any circumstances, sky bases are not allowed. According to Rule 12 States, basing on rooftops is NOT ALLOWED!",
 	"Disrespecting any of our players and/or staff members for any reason, under any circumstances, is strongly forbidden!",
 	"If its Serious or joke, about DDOS or DOXING, even in rr. This will as stated in the General Rules almost Immediately result in a Perm Ban!",
 	"You can identify your base as “building” with a text screen whenever you are building defenses initially. You must take the building sign down as soon as you are done. You can not raid a “building base!",
@@ -192,7 +192,7 @@ var l_messages = [
 	"Exploiting is strictly forbidden. Our servers are designed to be as minimalistic with glitches and exploits as possible, however, it is not fully guaranteed that some glitches and exploits can slip by unnoticed. Should you find anything that needs to come to our attention, please submit a bug report immediately!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Use common sense when being active and chatting in the server. Don't ecourage people to break rules, don't spam staff, etc. Use your brain!",
-        "You can't include movement impairing doorways or entrances, aka crouching, jumping!",
+        "PLEASE NOTE: Staff has the final say; if they tell you to stop, you must stop.Otherwise, you can be warned! NOTICE!",
 	"No concentration camps or inappropriate structures. (Racist, pornographic, bashing of religions, etc are not tolerated) Stick figures are allowed. Maybe penis statues in the forest!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "Dont Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
@@ -201,14 +201,14 @@ var l_messages = [
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
 	"This is called NLR (New Life Rule). You can't go back and shoot the same person that shot you because you are a new person!",
 	"Do not double-door (Double-dooring is when you place a fading door directly on top of another. This applies to world doors!",
-	"Dont threaten to DDoS the server-This will result in a permanent ban, joke or not!",
+	"You need to have a licence which you get from the MAYOR. Without it, you may be AOS. If seen with a gun out in public with it, you may not be AOS!",
 	"Staff has the final say; if they tell you to stop, you must stop. Otherwise, you can/will be warned!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose. If someone does walk in the way, that is allowed as long as you repay them!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
 	"No metagaming or trying to take advantage of in-roleplay. It ruins the fun for those who take roleplaying seriously!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Breaking NLR constitutes as returning to the place of your death within or before five minutes of your death. This can also mean returning and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a Verbal Warn, Warn or Ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR — don’t do it!"
+        "All jobs (except children and co.) can own a defence firearm (1-handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened!"
 
 ];
 
