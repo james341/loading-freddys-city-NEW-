@@ -198,7 +198,7 @@ var l_messages = [
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "Please keep in mind that the staff has the final say; if they tell you to stop, you must stop. Otherwise, you can be warned! NOTICE!",
 	"No concentration camps or inappropriate structures. (Racist, pornographic, bashing of religions, etc are not tolerated) Stick figures are allowed. Maybe penis statues in the forest!",
-	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
+	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!",
         "Dont Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "No, offensive humour is not okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "Do not abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
