@@ -189,7 +189,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
-	"Do not attempt/say you are going to DDOS/crash the server. Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke." It will be taken seriously and you will be permabanned!",
+	"Do not attempt/say you are going to DDOS/crash the server. Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke. It will be taken seriously and you will be permabanned!",
 	"Please use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. (This applies to conflict as well!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
