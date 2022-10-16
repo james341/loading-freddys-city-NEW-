@@ -194,6 +194,7 @@ var l_messages = [
         "Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. (This applies to conflict as well!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
 	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
+	"Do not degrade/harass a person based on gender, age, race, sexuality, or religious preference. -- This is 2022 not the 1940's and 50's!",
 	"Use common sense. Do not abuse exploits, loopholes around rules, or other!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
