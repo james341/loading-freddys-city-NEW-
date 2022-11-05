@@ -210,7 +210,7 @@ var l_messages = [
 	"When donating or purchasing from the AN servers, you agree that you are 18 years of age at minimum. If you are underage, you have to gain the consent of your parents or guardians to donate to or purchase anything from us. The policies and rules of the United Nations community are subject to change within due time. Donations sent to us by users/players are kept to pay for hosting, payment of our developers, and other things to keep the servers going!",
 	"Do not undermine or disobey a staff member or their request—as long as it's within reason and does not break any other rule stated herein!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
-	"No metagaming or trying to take advantage of in-roleplay. It ruins the fun for those who take roleplaying seriously!",
+	"KOS signs are most often placed at the entrance of a KOS area; they must be clearly sized and colored. Any attempts to lure people into areas with obscure KOS signs will result in punishment from staff!",
 	"All bases must have the dimensions of two players wide (shoulder to shoulder) and two players back/front (four players should at least be able to fit into this space in two pairs!",
 	"Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. (This applies to conflict as well)→ Don't leave to avoid punishment (LTAP); it will always lead to a more severe punishment!",
         "All jobs (except children and co.) can own a defence firearm (1-handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened!"
