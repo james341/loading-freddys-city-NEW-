@@ -167,7 +167,7 @@ var l_musicPlaylist = [
 	{ogg: "Idrathersleepinstrumental.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "killerinp.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "superidoldsafmusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
 ];
 
@@ -185,11 +185,11 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Under any circumstances, sky bases are not allowed. According to Rule 12 States, dumping on rooftops is NOT ALLOWED!",
+	"DDoS or the publicising of another member's private information (DOX) will result in a permanent ban. (This includes any hacking threat!",
 	"Disrespecting any of our players and/or staff members for any reason, under any circumstances, is strongly forbidden!",
-	"Hold yourself accountable for your actions and mistakes—if you get in trouble, admit it and work with staff to resolve it No advertising!",
-	"Users with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or have tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds)—being exiled makes you defined as an  outcast Users who were exiled are not to be mentioned within the community!",
-	"If it's serious or a joke, about DDOS or DOXING, even in RR. This will, as stated in the General Rules, almost immediately result in a Perm Ban!",
+	"RDMing is killing a player without any valid reason. This includes, but is not limited to: making excuses to kill a player, using small things that they do to kill them, etc. To kill a player, you must have a valid reason, such as when they hurt you or a squad member, try to arrest you or a party member, cross a KOS line at a base you own, and so on!",
+	"Anyone with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or have tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds)—being exiled makes you defined as an  outcast Users who were exiled are not to be mentioned within the community!",
+	"Serious or a joke, about DDOS or DOXING even in RR. This will, as stated in the General Rules, almost immediately result in a Perm Ban!",
 	"You may not kill someone using discrimination based upon their race, sexual orientation, sex, etc. Doing such will be considered a higher count of RDM, and is subject to an immediate ban!",
 	"Exploiting is strictly forbidden. Our servers are designed to be as minimalistic with glitches and exploits as possible, however, it is not fully guaranteed that some glitches and exploits can slip by unnoticed. Should you find anything that needs to come to our attention, please submit a bug report immediately!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
@@ -200,8 +200,8 @@ var l_messages = [
 	"No offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "Do not degrade/harass a person based on gender, age, race, sexuality, or religious preference. -- This is 2022 not the 1940's and 50's!",
 	"One-on-one verbal conversation between the staff member and party in a private channel, with an explanation of the infraction, and what next steps may be taken if the problem persists!",
-	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
-	"Inappropriate behaviour with a minor (under 18) is strictly prohibited!",
+	"No metagaming or trying to take advantage in-game. It ruins the fun for those who take roleplaying seriously!",
+	"No Inappropriate behaviours with any minors (under 18) it is strictly prohibited!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
 	"Do not double-door (Double-dooring is when you place a fading door directly on top of another. This applies to world doors!",
 	"You need to have a licence, which you can get from the MAYOR. Without it, you may be AOS. If seen with a gun out in public with it, you may not be AOS!",
@@ -212,7 +212,7 @@ var l_messages = [
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match!",
 	"KOS signs are most often placed at the entrance of a KOS area; they must be clearly sized and colored. Any attempts to lure people into areas with obscure KOS signs will result in punishment from staff!",
 	"All bases must have the dimensions of two players wide (shoulder to shoulder) and two players back/front (four players should at least be able to fit into this space in two pairs!",
-	"Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. (This applies to conflict as well)→ Don't leave to avoid punishment (LTAP); it will always lead to a more severe punishment!",
+	"Don't walk up to somebody and say, "I'm going to DDOS this fucking stupid server!" as a joke, it will be taken seriously, and you will be permanently banned!",
         "All jobs (except children and co.) can own a defence firearm (1-handed) to protect their property, not to be used as an attacking weapon, and not be drawn when not (RP) threatened!"
 
 ];
