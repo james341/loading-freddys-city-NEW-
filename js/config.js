@@ -187,7 +187,6 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"DDoS or the publicising of another member's private information (DOX) will result in a permanent ban. (This includes any hacking threat!",
 	"Disrespecting any of our players and/or staff members for any reason, under any circumstances, is strongly forbidden!",
-	"RDMing is killing a player without any valid reason. This includes, but is not limited to: making excuses to kill a player, using small things that they do to kill them, etc. To kill a player, you must have a valid reason, such as when they hurt you or a squad member, try to arrest you or a party member, cross a KOS line at a base you own, and so on!",
 	"Anyone with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or have tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds)—being exiled makes you defined as an  outcast Users who were exiled are not to be mentioned within the community!",
 	"Serious or a joke, about DDOS or DOXING even in RR. This will, as stated in the General Rules, almost immediately result in a Perm Ban!",
 	"You may not kill someone using discrimination based upon their race, sexual orientation, sex, etc. Doing such will be considered a higher count of RDM, and is subject to an immediate ban!",
