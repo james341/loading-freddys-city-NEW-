@@ -165,7 +165,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "Idrathersleepinstrumental.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "absofacto.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "superidoldsafmusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
