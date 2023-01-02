@@ -165,8 +165,6 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dayshiftatfreddysaved.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "candycolouredskycreativecommons.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafyeasttwonine.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
 ];
@@ -195,7 +193,6 @@ var l_messages = [
 	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
 	"Users with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or having tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds). Being exiled makes you an outcast Users who were exiled are not to be mentioned within the community!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
-        "Golden Freddy Plush, Freddy Plush, Plushtrap. They are obliged to sit in the pizzeria / in the basement during the day (For example: On the table, without moving on the floor. Minor movements are not considered a violation). [Punishment: warn / Ban 10-20min] They can escape to the sewers, but cannot surface. [Punishment: warn / Ban 10-20min] They can attack people at night. [Punishment: warn / Ban 10-20min!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "We do not provide refunds for donations or packages such as VIP, PAC3 Access, etc. There are no change-of-mind refunds on sale items. AN does not have a contractual obligation to provide donation packages. Donation packages can be revoked, and art subjects can be changed!",
 	"It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
@@ -204,7 +201,7 @@ var l_messages = [
         "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Accidentally killing someone (crossfire) is not RDM unless on purpose; if someone does walk in the way, that is allowed as long as you repay them.  This rule also applies toaccidentallyy running someone over!",
-	"No metagaming or trying to take advantage in-game. It ruins the fun for those who take roleplaying seriously!",
+	"Pizzeria employees are not permitted to mug, steal, or damage property. Force people to leave, detain, and/or murder people for valid reasons such as (damaging property, going into restricted areas without a warrant, and/or harassing employees) (They can also ban you from the establishment as well.) All employees have jurisdiction over the establishment!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match, etc!",
 	"No metagaming or trying to take advantage in-game. It ruins the fun for those who take roleplaying seriously!",
 	"Do not abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
