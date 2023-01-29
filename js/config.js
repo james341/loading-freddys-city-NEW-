@@ -167,6 +167,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "Idrathersleepinstrumental.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafahafefeat.ogg", name: "【AN】 - Installation Music"},
@@ -194,9 +195,11 @@ var l_messages = [
 	"Please use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. This applies to conflict as well!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
+	"While building, you should not have any printers or other entities. If you do, those entities can be removed. Gun and heavy arms dealers are an exception to this rule, as they will need to build a secure case of some sort around the shipments to set up the store. Do not, however, use or provide guns from these shipments under any circumstances while building. You may only have the shipments out to put them into a secure place before you open your store to prevent people from walking in and stealing!",
+	"Accidentally killing someone (crossfire) is not RDM unless on purpose; if someone does walk in the way, that is allowed as long as you repay them!",
 	"Your privacy is safe with us. We do not collect your privacy to use it against you, and we don't collect your information at all. We also do not sell your information to anyone!",
 	"Your donation status does not change the fact that you are a member of our community. You are not above our rules or anything else for that matter. You still have to follow our guidelines!",
-	"Please do not abuse any tools! The more abuse they get, the more limited it gets for everyone!",
+	"All KOS Rules Apply will be allowed, but only under the default KOS rules for that section. You can use this, or you can manually do your KOS Rules!",
 	"Users with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or having tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds). Being exiled makes you an outcast Users who were exiled are not to be mentioned within the community!",
 	"Animatronics cannot exit the Restaurant. They cannot chase players outside the restaurant, but they can do /me grabs the child before they leave the restaurant!!",
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
@@ -207,6 +210,7 @@ var l_messages = [
         "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
 	"Do NOT abuse props in any way, shape, or form. (prop-blocking, prop-killing, prop-bridging, and prop-spamming!",
 	"Pizzeria employees are not permitted to mug, steal, or damage property. Force people to leave, detain, and/or murder people for valid reasons such as (damaging property, going into restricted areas without a warrant, and/or harassing employees) (They can also ban you from the establishment as well.) All employees have jurisdiction over the establishment!",
+	"Do not use  collided bulletproof props. Defenders can jump in and out of them, and this action is deemed unfair and prop abuse.!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match, etc!",
 	"No metagaming or trying to take advantage in-game. It ruins the fun for those who take roleplaying seriously!",
 	"Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
