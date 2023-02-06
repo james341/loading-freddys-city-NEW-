@@ -168,10 +168,8 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "comeandgetyourlove.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "cailloulilboom.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafahafefeat.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "dsafsuperidol.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
 ];
 
