@@ -195,15 +195,13 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
-	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
-	"Please use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
+	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "Please Abide by our New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. This applies to conflict as well!",
 	"Entering, stealing, and lockpicking military vehicles is not allowed. Unless your role is within the military!",
 	"All the government officials can build within the PD as long as it does not block walking space!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
 	"You can only have a maximum of three fading door entries or exits in your base (fading doors that are used as doors to funnel users). You can have up to four fading door windows, boxes, etc., but they must be linked with buttons (not keypads) and said buttons must be toggled!",
 	"While building, you should not have any printers or other entities. If you do, those entities can be removed. Gun and heavy arms dealers are an exception to this rule, as they will need to build a secure case of some sort around the shipments to set up the store. Do not, however, use or provide guns from these shipments under any circumstances while building. You may only have the shipments out to put them into a secure place before you open your store to prevent people from walking in and stealing!",
-	"Accidentally killing someone (crossfire) is not RDM unless on purpose; if someone does walk in the way, that is allowed as long as you repay them!",
 	"Your donation status does not change the fact that you are a member of our community. You are not above our rules or anything else for that matter. You still have to follow our guidelines!",
 	"All KOS Rules Apply will be allowed, but only under the default KOS rules for that section. You can use this, or you can manually do your KOS Rules!",
 	"Users with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or having tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds). Being exiled makes you an outcast Users who were exiled are not to be mentioned within the community!",
@@ -211,8 +209,7 @@ var l_messages = [
         "Animatronics can KOS you from 12:00 am to 5:00 am in-game time. - They are allowed to kill you at this time since it is after closing if you are in the Restaurant!",
         "We do not provide refunds for donations or packages such as VIP, PAC3 Access, etc. There are no change-of-mind refunds on sale items. AN does not have a contractual obligation to provide donation packages. Donation packages can be revoked, and art subjects can be changed!",
 	"It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
-        "Accidentally killing someone (crossfire) is not RDM unless on purpose; if someone does walk in the way, that is allowed as long as you repay them. This rule also applies to accidentally running someone over!
-	"Do not Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
+        "Do not Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
 	"Pizzeria employees are not permitted to mug, steal, or damage property. Force people to leave, detain, and/or murder people for valid reasons such as (damaging property, going into restricted areas without a warrant, and/or harassing employees) (They can also ban you from the establishment as well.) All employees have jurisdiction over the establishment!",
