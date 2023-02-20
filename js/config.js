@@ -175,6 +175,7 @@ var l_musicPlaylist = [
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "xmanback.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
 ];
