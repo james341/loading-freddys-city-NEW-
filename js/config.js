@@ -170,12 +170,13 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "flintstonesdsafremix.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "thedavesthemeremixtheme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "superidoldsafmusicbox.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "securitybreachelevatorthree.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "xmanback.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "smokindsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
 ];
