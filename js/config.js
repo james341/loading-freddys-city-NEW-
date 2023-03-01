@@ -177,9 +177,8 @@ var l_musicPlaylist = [
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "tunnewdsafnewtun.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "smokindsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},  
 ];
 
 // Random music order?
@@ -200,10 +199,12 @@ var l_messages = [
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "Please Abide by our New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. This applies to conflict as well!",
 	"Entering, stealing, and lockpicking military vehicles is not allowed. Unless your role is within the military!",
-	"All the government officials can build within the PD as long as it does not block walking space!",
+	"Don't speak or joke about DDOS or DOXING, even in role-play. This will, as stated in the General Rules, almost immediately result in a permanent ban!",
+	"Government officials can build within the PD as long as it does not block walking space!",
 	"Don't say anything that could possibly hurt others (racial slurs, general slurs, etc!",
-	"You can only have a maximum of three fading door entries or exits in your base (fading doors that are used as doors to funnel users). You can have up to four fading door windows, boxes, etc., but they must be linked with buttons (not keypads) and said buttons must be toggled!",
 	"While building, you should not have any printers or other entities. If you do, those entities can be removed. Gun and heavy arms dealers are an exception to this rule, as they will need to build a secure case of some sort around the shipments to set up the store. Do not, however, use or provide guns from these shipments under any circumstances while building. You may only have the shipments out to put them into a secure place before you open your store to prevent people from walking in and stealing!",
+	"Some rules may be left out in the RP situation, but this depends on the Admin's point of view! Only Super Admin+ may give this allowance; managers have to be informed! By playing the server, you agree to read, understand, and follow the rules. Not doing so is punishable!",
+	"Accidentally killing someone (crossfire) is not RDM unless on purpose; if someone does walk in the way, that is allowed as long as you repay them. This rule also applies to accidentally running someone over!",
 	"Your donation status does not change the fact that you are a member of our community. You are not above our rules or anything else for that matter. You still have to follow our guidelines!",
 	"All KOS Rules Apply will be allowed, but only under the default KOS rules for that section. You can use this, or you can manually do your KOS Rules!",
 	"Users with the exiled status have earned it for going above and beyond to receive multiple bans within our communities and/or having tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds). Being exiled makes you an outcast Users who were exiled are not to be mentioned within the community!",
@@ -215,12 +216,12 @@ var l_messages = [
         "Using offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "DDoS or the publicizing of other member's private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
 	"Pizzeria employees are not permitted to mug, steal, or damage property. Force people to leave, detain, and/or murder people for valid reasons such as (damaging property, going into restricted areas without a warrant, and/or harassing employees) (They can also ban you from the establishment as well.) All employees have jurisdiction over the establishment!",
-	"Do not use collided bulletproof props. Defenders can jump in and out of them, and this action is deemed unfair and prop abuse.!",
+	"Do not use colliding bulletproof props. Defenders can jump in and out of them, and this action is deemed unfair and prop abuse!",
 	"This exists to give the roleplay a more in-depth, realistic feel. Do not come back to the same area after you have died by someone within Roleplay This also counts if you are attempting to kill the exact same person who just recently killed you!",
 	"No RDM, MRDM, VDM, etc. (Random Death Match, Mass Random Death Match, Vehicle Death Match, etc!",
 	"No metagaming or trying to take advantage in-game. It ruins the fun for those who take roleplaying seriously!",
 	"Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Breaking NLR constitutes as returning to the place of your death within or before five minutes of your death. This can also mean returning and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a Verbal Warn, Warn or Ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR — don’t do it!"
+        "Breaking the NLR constitutes returning to the place of your death within or before five minutes of your death. This can also mean returning to and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a verbal warning, a warning, or a ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR. Don’t do it!"
 
 ];
 
