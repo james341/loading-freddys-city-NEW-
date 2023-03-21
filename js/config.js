@@ -134,6 +134,9 @@ var l_bgImages = [
 	"image60.jpg",
 	"image61.jpg",
 	"image62.jpg",
+	"image63.jpg",
+	"image64.jpg",
+	"image65.jpg",
 
 ];
 
