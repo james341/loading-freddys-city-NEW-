@@ -180,6 +180,8 @@ var l_musicPlaylist = [
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "lookflipsidetwo.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},  
