@@ -180,6 +180,7 @@ var l_musicPlaylist = [
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "cailloulilboom.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "UncleKrackerMusicBox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "salvagemusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "【AN】 - Installation Music"},
@@ -206,7 +207,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Staff ALWAYS have the final say; if they tell you to stop- you got to stop. Otherwise, you can/will be warned!",
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
-        "Please Abide by our New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. This applies to conflict as well!",
+        "Any Discussion about Bub Games is banned! Do not ignore this or consequences will be given out, single-handedly!",
+	"Please Abide by our New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. This applies to conflict as well!",
 	"You can base with law-breaking classes like thieves but you can NOT participate in illegal activities against other users with them like mugging or raiding!",
 	"Automation in any form for the purpose of collecting money is strictly forbidden and may result in a severe deduction from your account!",
 	"All jobs can own a defense firearm (1 handed) to protect their property, not to be used as an attacking weapon and not to be drawn when not (RP) threatened.19. Body-blocking is not allowed if you are doing it to troll or be annoying!",
