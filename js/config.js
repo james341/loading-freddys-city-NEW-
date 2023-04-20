@@ -179,7 +179,6 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "incrediblesagain.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "UncleKrackerMusicBox.ogg", name: "【AN】 - Installation Music"},
@@ -187,7 +186,6 @@ var l_musicPlaylist = [
 	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "lookflipsidetwo.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},  
