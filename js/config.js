@@ -179,6 +179,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "killerinp.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "donstopmenowmusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
