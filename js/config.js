@@ -178,9 +178,8 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "smokindsaf.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "schnuffelkuschelsongInstrumental.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},  
