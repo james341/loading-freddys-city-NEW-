@@ -179,8 +179,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "mywaytrioroai.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "comeoneileen.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "Idrathersleepinstrumental.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "schnuffelkuschelsongInstrumentaltwo.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
@@ -207,7 +206,7 @@ var l_messages = [
         "No inappropriate or offensive names We will ask you first to change it, or we will change it for you. Continuing to use offensive or inappropriate usernames will lead to a kick and ban!",
 	"If somebody is wanted, you may AOS or KOS the person. In order to KOS, you must warn the criminal at least three times to stop moving. If they comply, you must arrest them instead!",
 	"ERP is strictly forbidden! - Erotic roleplay is not allowed on the server! It is a bannable offence!",
-	"No GIFs or offensive material on text signs, and keep your signs role-play appropriate. (no random signs) Racist, pornographic, bashing of religions, etc. are not tolerated!",
+	"Any GIFs or offensive material like text signs, and keep your signs role-play appropriate. (no random signs) Racist, pornographic, bashing of religions, etc. are not tolerated!",
 	"The AN reserves the right, at any time without notice, to revise these rules and guidelines by updating this posting. Players and staff agree to be bound by such revisions and should periodically revisit this post to review the current rules and guidelines listed herein!",
 	"Be civil/civilised This basically means no slurs or discrimination about someone's race, gender, sexuality, religion, etc. Do not target people for something; even if they did something bad, it isn't best to go after them. We do allow swearing, but try to keep it to a minimum!",
 	"You're not allowed to ask someone if they can put a hit on a specific player; this also counts when you ask someone, Can you please place a hit!",
@@ -217,7 +216,6 @@ var l_messages = [
 	"Do not use this community to spam, manipulate engagement, or disrupt other people’s experiences, including trying to influence or disrupt conversations using bots, fake accounts, multiple accounts, or other automation. This includes purchasing or selling methods of artificially increasing membership, such as via advertisements or botting!",
 	"Please Note These rules will continue to evolve over time. This means we may take action against a user or content that violates the spirit of these guidelines when we encounter a new threat or harm that is not explicitly covered in the current version!",
 	"Do not harass others or organise, promote, or participate in harassment. Disagreements happen and are normal, but making continuous, repetitive, or severe negative comments or circumventing a block or ban can cross the line into harassment and is not okay!",
-	"Any mention of 0Exn is prohibited!",
 	"I hereby ban all public discussions about Pedophilia!",
 	"Staff members are there to help whenever there is an issue in chat or in any other situation. So please, for God's sake, just listen to them!",
 	"No doxxing or revealing of information This is absolutely forbidden. This includes addresses, full names, credit card information, and passwords. We also include stalking in this category. Punishment will be carried out if this happens!",
