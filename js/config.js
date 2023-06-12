@@ -182,14 +182,10 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "mywayremastered.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafahafefeat.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafclownandjokers.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "goodnightsongdisneyjunior.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "boulevardbox.mp3", name: "【AN】 - Installation Music"},
-	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},  
 ];
