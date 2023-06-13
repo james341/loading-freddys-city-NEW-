@@ -184,7 +184,7 @@ var l_musicPlaylist = [
 	{ogg: "mywayremastered.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "pippedpants.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "johnyyespapanursery.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "realfredbearmusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "goodnightsongdisneyjunior.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "boulevardbox.mp3", name: "【AN】 - Installation Music"},
