@@ -176,9 +176,9 @@ var l_music = true;
 var l_musicDisplay = true;
 
 // Music playlist
-// Add as many youtube ids/urls or ogg files you want
-// (Place the ogg files in the music folder)
-// (You can also use external URL for the ogg files)
+// Add as many youtube ids/URLs or ogg files as you want
+// (Place the Ogg files in the music folder)
+// (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "mywayremastered.ogg", name: "【AN】 - Installation Music"},
@@ -186,8 +186,6 @@ var l_musicPlaylist = [
 	{ogg: "johnyyespapanursery.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "realfredbearmusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "goodnightsongdisneyjunior.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "boulevardbox.mp3", name: "【AN】 - Installation Music"},
 	{ogg: "fredbearfight.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},  
 ];
