@@ -9,19 +9,19 @@
 // URL for the server logo
 // Leave it blank to use text instead
 // (Put the files in the images folder)
-// (You can also use external URL)
+// (You can also use an external URL)
 var l_serverImage = "logo.png";
 
 // Center logo?
 // 'true' or 'false'
 var l_centerLogo = false;
 
-// Display current map and gamemode?
+// Display the current map and game mode.
 // 'true' or 'false'
 var l_displayMapGamemode = true;
 
 // Custom server name configuration
-// Leave it blank for automatic server name
+// Leave it blank for the automatic server name
 var l_serverName = "sleekLoad 2";
 
 // Use a video for the background?
@@ -213,15 +213,18 @@ var l_messages = [
 	"No inappropriate or offensive names We will ask you first to change it, or we will change it for you. Continuing to use offensive or inappropriate usernames will lead to a kick and ban!",
 	"If somebody is wanted, you may AOS or KOS the person. In order to KOS, you must warn the criminal at least three times to stop moving. If they comply, you must arrest them instead!",
 	"Any GIFs or offensive material like text signs, and keep your signs role-play appropriately. (no random signs) Racist, pornographic, bashing of religions, etc. are not tolerated!",
+	"Tac Units have the right to protect the Mayor (only if they have permission from a command member in that department!",
 	"The AN reserves the right, at any time without notice, to revise these rules and guidelines by updating this posting. Players and staff agree to be bound by such revisions and should periodically revisit this post to review the current rules and guidelines listed herein!",
 	"Be civilised This basically means no slurs or discrimination about someone's race, gender, sexuality, religion, etc. Do not target people for something; even if they did something bad, it isn't best to go after them. We do allow swearing, but try to keep it to a minimum!",
+	"All Guns are illegal (except for pistols but they still can't be out in public!",
 	"You're not allowed to ask someone if they can put a hit on a specific player; this also counts when you ask someone, Can you please place a hit!",
+	"Every base's property line stops where the sidewalk/map road/fence starts. You may not extend your base or a KOS sign beyond your property line!",
 	"If there's a problem, DM any available staff member. (If people are saying, Go kill yourself or other stuff that is bad, they will get a warning!",
 	"No jokes about mental illnesses, sexualities of any kind, religions, or political stuff. (Ex. cancer, autism, gay, etc!",
 	"Do not distribute or provide access to content involving the hacking, cracking, or distribution of stolen goods, pirated content, or accounts. This includes sharing or selling game cheats or hacks!",
 	"Do not use this community to spam, manipulate engagement, or disrupt other people’s experiences, including trying to influence or disrupt conversations using bots, fake accounts, multiple accounts, or other automation. This includes purchasing or selling methods of artificially increasing membership, such as via advertisements or botting!",
 	"Do not harass others or organize, promote, or participate in harassment. Disagreements happen and are normal, but making continuous, repetitive, or severe negative comments or circumventing a block or ban can cross the line into harassment and is not okay!",
-	"I hereby ban all public discussions about Pedophilia!",
+	"NLR (New life rule) is 3 minutes. Do not return to the place of death for that duration and you forget everything from your past life (including how you died and who killed you!",
 	"Ni we have Zero Tolerance for any kinda Racism, Homophobia, Offensive Slurs, or Being Sexist, etc: This will result in a permanent ban!",
 	"Please Abide by our New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location where you died. This applies to conflict as well!",
 	"Automation in any form for the purpose of collecting money is strictly forbidden and may result in a severe deduction from your account!",
