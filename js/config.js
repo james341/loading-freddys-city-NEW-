@@ -188,7 +188,7 @@ var l_musicPlaylist = [
 	{ogg: "bubgames.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "comesthesunInstrumental.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "pippedpants.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "violentvincentlandmines.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "unseenhorrors.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "toyfreddyspaceopddity.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
