@@ -182,8 +182,11 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "schnuffelkuschelsongInstrumentaltwo.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "elevatorsl.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "smokindsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "soundtrackgrahp.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "bubgames.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "comesthesunInstrumental.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "pippedpants.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "unseenhorrors.ogg", name: "【AN】 - Installation Music"},
