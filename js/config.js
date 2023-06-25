@@ -182,6 +182,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "backstreetboysmusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "soundtrackgrahp.ogg", name: "【AN】 - Installation Music"},
