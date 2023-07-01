@@ -184,6 +184,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "foreverand everfnafsecuritybreachmusic.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "thedavesthemeremixtheme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
