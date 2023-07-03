@@ -184,6 +184,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dayshiftatfreddyjazzthem.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "freddyfazbearpizzeriasimulatormaintheme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "soundtrackgrahp.ogg", name: "【AN】 - Installation Music"},
