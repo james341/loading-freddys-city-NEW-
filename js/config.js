@@ -183,6 +183,7 @@ var l_musicDisplay = true;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "violentvincentlandmines.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dayshiftatfreddyjazzthem.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafdavemusicone.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "harrystylesasitwas.ogg", name: "【AN】 - Installation Music"},
