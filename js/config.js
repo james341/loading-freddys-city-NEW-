@@ -184,7 +184,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "johnyyespapanursery.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "mywaytrioroai.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "dsafbirthday.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "smokindsafmusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
