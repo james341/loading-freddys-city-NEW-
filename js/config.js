@@ -217,7 +217,6 @@ var l_messages = [
 	"Hey there, my cool friends! Before you jump into the server, we’ve got a few rules to go over! We want to make sure this place is a friendly and safe place to hang out, so please sit tight while we explain, okay!",
 	"These are going to be pretty basic. Don't be racist. What I mean is that saying slurs and sh*t racist jokes is fine as long as they don't go too far!",
 	"Inappropriate usernames, pfps, banners, statuses, and bios are not allowed. Most violations of this rule will result in a kick on the first offence!",
-	"Don't be a disturbance; let others play in peace! Don’t spam in text channels (except for the spam channel), don’t repeatedly join and leave voice channels, and please don’t destroy our poor headphone users withearrape!"
 	"Don't share your personal information. If you need to share personal information, do it in a DM. Otherwise, remember that what you share can be seen by ANYONE on the server. INCLUDING ME!",
 	"Don’t you dare engage in any malicious behaviour, unless you want to get scurvy. This could be anything from blackmail, malicious links or content, revealing other friends' personal information, or scamming. We are respectful pirates around here!",
 	"Avoid the pollution; keep the server organised! Try to keep your discussions in the appropriate channels, or else the server will be a complete mess. I’ve already spent so much time cleaning up the kitchen, so please don’t make me come and clean the server too!",
