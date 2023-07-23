@@ -234,8 +234,10 @@ var l_messages = [
 	"No spamming isn't okay. Please do not send a large volume of small messages to the server repeatedly. This makes it difficult for other people to follow and engage in discussions!",
 	"Be civilised This basically means no slurs or discrimination about someone's race, gender, sexuality, religion, etc. Do not target people for something; even if they did something bad, it isn't best to go after them. We do allow swearing, but try to keep it to a minimum!",
 	"It is annoying to see non-cloaked admins flying around the server and getting in the way, so just cloak yourself! It also breaks roleplay!",
+	"Spamming is not allowed. This means Voice Channel switching spam, MicSpamming, Constant use of Caps, Tagging Spam, Private Messaging Spam, and Repeating similar messages!",
 	"Do not discuss sensitive topics. This isn't a debating server; keep sensitive topics out of here so we don't have a tonne of nasty arguments!",
 	"Entering, Stealing, or lockpicking military vehicles is not allowed. (Unless your role is within the military!",
+	"Be Respectful Show respect to all members of this specific server any Harassment and bullying are not allowed in any form and may result in being muted or kicked!"
 	"No blatant racism, homophobia, or xenophobia towards others; memes and jokes are fine within reason!",
 	"Be respectful to all members. Be respectful to others. No death threats, sexism, hate speech, or racism NO N WORD   this includes soft N) > No doxxing, swatting, or witch hunting!",
 	"Be respectful This means no mean, rude, or harassing comments. Treat others the way you want to be treated!",
