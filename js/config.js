@@ -239,7 +239,7 @@ var l_messages = [
 	"Entering, Stealing, or lockpicking military vehicles is not allowed. (Unless your role is within the military!",
 	"Be Respectful Show respect to all members of this specific server any Harassment and bullying are not allowed in any form and may result in being muted or kicked!"
 	"No blatant racism, homophobia, or xenophobia towards others; memes and jokes are fine within reason!",
-	"Be respectful to all members. Be respectful to others. No death threats, sexism, hate speech, or racism NO N WORD this includes soft N) > No doxxing, swatting, or witch hunting!",
+	"Be respectful to all members. Be respectful to others. No death threats, sexism, hate speech or racis this includes soft No doxxing, swatting, or witch hunting!",
 	"Be respectful This means no mean, rude, or harassing comments. Treat others the way you want to be treated!",
 	"You're not allowed to ask someone if they can put a hit on a specific player; this also counts when you ask someone, Can you please place a hit!",
 	"Keep the content appropriate for all ages. NSFW content, including pornography, lewd or explicit content, gore, or self-harm, is strictly prohibited. Sharing such materials will result in a permanent ban!",
