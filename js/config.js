@@ -221,6 +221,7 @@ var l_messages = [
 	"We understand that you want to grow your community, but we do not want the chats to be flooded with links to different servers. You can message one of the Owners to request a Partnership between servers!",
 	"Respect and Fair Play Treat fellow players with respect at all times. Harassment, toxicity, and baseless out-of-game accusations are strictly prohibited. Cheating or exploiting the game in any way is not allowed!",
 	"Don't share your personal information. If you need to share personal information, do it in a DM. Otherwise, remember that what you share can be seen by ANYONE on the server. INCLUDING ME!",
+	"Breaking rules outside of AN and having it reported to us may result in equal punishment here. You are responsible for your own actions. Examples: Excessive racism, excessive harassment, excessive bullying, causing harm to other community members or communities!",
 	"The Server is not equipped to handle your personal issues. It's not that we don't care; it's just that we can't carry the weight of your problems. Do not talk about heavy psychological issues, and please seek help from a professional!",
 	"no Intentional Delays Repeatedly leaving or suicidal to avoid encounters with anyone or purposely spawning in a role you do not want is not allowed. Such behaviour disrupts the flow of the game and negatively affects others' experiences!",
 	"Do not ping staff or the owner without a good reason. 1.10: Do NOT ask for staff or be a mini-staff, or you will go into timeout for 10 minutes!",
