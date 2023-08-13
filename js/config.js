@@ -185,10 +185,8 @@ var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "superidomusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "cailloulilboom.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "sleeplessdavetheme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafyouspinme.ogg", name: "【AN】 - Installation Music"},  
 ];
