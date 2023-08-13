@@ -224,7 +224,7 @@ var l_messages = [
 	"Any racism, homophobia, transphobia, sexism, misogynism, or other speech considered derogatory will result in a permanent ban with no appeal!",
 	"Racism, Fascism, Nazism, and fanaticism, even in a joking manner, are not allowed. Using these words, even if you are not addressing anyone, will result in a penalty!",
 	"Be respectful and show respect to all members of the Server. Harassment and bullying are not allowed in any form and may result in being muted or kicked!",
-	""We understand that you want to grow your community, but we do not want the chats to be flooded with links to different servers. You can message one of the Owners to request a Partnership between servers!",
+	"We understand that you want to grow your community, but we do not want the chats to be flooded with links to different servers. You can message one of the Owners to request a Partnership between servers!",
 	"Respect and Fair Play Treat fellow players with respect at all times. Harassment, toxicity, and baseless out-of-game accusations are strictly prohibited. Cheating or exploiting the game in any way is not allowed!",
 	"No one-way shooting fences (raiders must be able to see who is shooting them), and one-way props that you do not shoot through are allowed!",
 	"Don't share your personal information. If you need to share personal information, do it in a DM. Otherwise, remember that what you share can be seen by ANYONE on the server. INCLUDING ME!",
