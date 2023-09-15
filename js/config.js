@@ -187,9 +187,14 @@ var l_musicDisplay = true;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "sleeplessdavetheme.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "pinesradio14new.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},  
 ];
 
 // Random music order?
@@ -209,7 +214,6 @@ var l_messages = [
 	"No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
-	"These are going to be pretty basic. Don't be racist. What I mean is that saying slurs and sh*t racist jokes is fine as long as they don't go too far!",
 	"The fading door limit is three doors protecting your items. You may only require raiders to go through three doors to get to your entity or bank vault!",
 	"You cannot make laws that hinder CPs from doing their job properly (i.e., cops cannot handcuff criminals, cannot use their stun guns, or all fines are $1) in conjunction with a law stating no arresting. PD is KOS to everyone, including CPs!",
 	"Inappropriate usernames, pfps, banners, statuses, and bios are not allowed. Most violations of this rule will result in a kick on the first offence!",
@@ -217,7 +221,6 @@ var l_messages = [
 	"In order to kill your kidnapped victim, you must bring them to your base first. Kidnapping them in the street, and when they wake up in the street, killing them, there is still RDM!",
 	"I am a player, and I disagree with the actions of administration on AN. If you do not agree with a kick or ban reason, you can play on a different server. All Garry's Mod servers are hosted by the community. Your access to the community server(s) is at the discretion of their administration!",
 	"A well known threat to our community, all of Garry's Mod, and really all of video games, is the sexual abuse of children. We want to make sure AN is always a safe area for everyone to have fun and enjoy each other's company. We will be doing a few things to make this community safer for everyone. First, we will be adding additional rules to our site to prevent some instances of this. Secondly, we will be adding a dedicated report system for this type of abuse to ensure it gets the full attention it deserves. Thirdly, we will be partnering with CyberTip.org to properly investigate all reports we receive and make sure that law enforcement is properly informed of the situation!",
-	"In government, your role is to protect the general public from crime and to contain the law. You must follow orders given by higher officials (e.g., SWOT leader, police chief, mayor). You can build the police headquarters and/or a checkpoint, ensuring it has access to all government staff. You may not unarrest any person(s) in jail without a viable reason. You are encouraged to try to arrest criminals before killing them; however, this is not always viable in situations where your life or others lives are in danger, i.e., if you witnessed a violent crime, a criminal has a gun pointed at you, etc!",
 	"Be respectful with all membersBe respectful to others , No death threats, sexism, hate speech, racism (NO N WORD, this includes soft N) > No doxxing, swatting, witch hunting!",
 	"It is illegal to discharge any weapon other than a licenced pistol (only when used in self-defense) at all times. It is not illegal to possess weapons unless you have been caught by law enforcement brandishing them in public and/or discharging or using them with intent to commit a crime. However, it is illegal to enter or attempt to enter a government facility and/or bank with any weapons unless you are a member of law enforcement or bank security under the respective ban!",
 	"Drama over someone or a group of people getting banned and moderation decisions strictly forbidden (if you want to report moderation abuse of their power, please report to admin!",
