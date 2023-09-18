@@ -199,7 +199,7 @@ var l_musicPlaylist = [
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "sleeplessdavetheme.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "schnuffelkuschelsongInstrumentaltwo.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "superIdolsng.ogg", name: "【AN】 - Installation Music"},  
 ];
 
 // Random music order?
@@ -221,16 +221,16 @@ var l_messages = [
         "Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
 	"Bunnyhopping is prohibited in an RP scenario. Cheating in any form is prohibited; this includes scripts or exploiting server plugins!",
 	"You may not build above or block the NPCS in any way this includes building near it to restrict movement, building above it to limit your risk of selling it, or making a tunnel to the NPC to gain easy access for transactions. However, you may base near it!",
-	"Please, for the love of God, Do not roleplay in spawn. (e.g., mugging, completing hits, etc.) Do not run into spawn to avoid an RP situation!",
+	"Please, for the love of God, Do not roleplay in the spawn please. (e.g., mugging, completing hits, etc.) Do not run into spawn to avoid an RP situation!",
 	"You may not have any kind of pixel-perfect gap to get through your base; this includes fading or keypad doors. This includes thin props, props facing vertically towards players, and props in the walls. You must be able to get through it with ease!",
 	"The fading door limit is three doors protecting your Items. You may only require raiders to go through three doors to get to your entity or bank vault!",
 	"You cannot make laws that hinder CPs from doing their job properly (i.e., cops cannot handcuff criminals, cannot use their stun guns, or all fines are $1) in conjunction with a law stating no arresting. PD is KOS to everyone, including CPs!",
 	"Inappropriate usernames, pfps, banners, statuses, and bios are not allowed. Most violations of this rule will result in a kick on the first offence!",
-	"Harassment, disrespect, and discrimination will not be tolerated. Be civilised and do not target other players with actions in the game or in chat. This game is meant to be fun; anyone coming on with the intent of disrupting people's experiences will be treated harshly!",
+	"Any harassment, disrespect, and discrimination will not be tolerated. Be civilised and do not target other players with actions in the game or in chat. This game is meant to be fun; anyone coming on with the intent of disrupting people's experiences will be treated harshly!",
 	"In order to kill your kidnapped victim, you must bring them to your base first. Kidnapping them in the street, and when they wake up in the street, killing them, there is still RDM!",
 	"You may not abuse an advertisement warning to kill people for no valid reason, such as because the player has not done anything to provoke you. This is classified as RDM!",
 	"I am a player, and I disagree with the actions of administration on AN. If you do not agree with a kick or ban reason, you can play on a different server. All Garry's Mod servers are hosted by the community. Your access to the community server(s) is at the discretion of their administration!",
-	"Mist well known threats to any gaming community, and all of Garry's Mod, and really all of video games, is the sexual abuse of children. We want to make sure AN is always a safe area for everyone to have fun and enjoy each other's company. We will be doing a few things to make this community safer for everyone. First, we will be adding additional rules to our site to prevent some instances of this. Secondly, we will be adding a dedicated report system for this type of abuse to ensure it gets the full attention it deserves. Thirdly, we will be partnering with CyberTip.org to properly investigate all reports we receive and make sure that law enforcement is properly informed of the situation!",
+	"A most well known threat to any gaming community, and all of Garry's Mod, and really all of video games, is the sexual abuse of children. We want to make sure AN is always a safe area for everyone to have fun and enjoy each other's company. We will be doing a few things to make this community safer for everyone. First, we will be adding additional rules to our site to prevent some instances of this. Secondly, we will be adding a dedicated report system for this type of abuse to ensure it gets the full attention it deserves. Thirdly, we will be partnering with CyberTip.org to properly investigate all reports we receive and make sure that law enforcement is properly informed of the situation!",
 	"Be respectful with all membersBe respectful to others , No death threats, sexism, hate speech, racism (NO N WORD, this includes soft N) > No doxxing, swatting, witch hunting!",
 	"It is illegal to discharge any weapon other than a licenced pistol (only when used in self-defense) at all times. It is not illegal to possess weapons unless you have been caught by law enforcement brandishing them in public and/or discharging or using them with intent to commit a crime. However, it is illegal to enter or attempt to enter a government facility and/or bank with any weapons unless you are a member of law enforcement or bank security under the respective ban!",
 	"Drama over someone or a group of people getting banned and moderation decisions strictly forbidden (if you want to report moderation abuse of their power, please report to admin!",
