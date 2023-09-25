@@ -187,16 +187,14 @@ var l_musicDisplay = true;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "smokindsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "harrystylesasitwas.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "sleeplessdavetheme.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "killerinp.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "dsafahafefeat.ogg", name: "【AN】 - Installation Music"},  
 ];
 
 // Random music order?
@@ -218,7 +216,7 @@ var l_messages = [
         "Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
 	"Bunnyhopping is prohibited in an RP scenario. Cheating in any form is prohibited; this includes scripts or exploiting server plugins!",
 	"You may not build above or block the NPCS in any way this includes building near it to restrict movement, building above it to limit your risk of selling it, or making a tunnel to the NPC to gain easy access for transactions. However, you may base near it!",
-	"Please, for the love of God, Do not roleplay in the spawn please. (e.g., mugging, completing hits, etc.) Do not run into spawn to avoid an RP situation!",
+	"Do not roleplay in the spawn please. (e.g., mugging, completing hits, etc.) Do not run into spawn to avoid an RP situation!",
 	"You may not have any kind of pixel-perfect gap to get through your base; this includes fading or keypad doors. This includes thin props, props facing vertically towards players, and props in the walls. You must be able to get through it with ease!",
 	"The fading door limit is three doors protecting your Items. You may only require raiders to go through three doors to get to your entity or bank vault!",
 	"You cannot make laws that hinder CPs from doing their job properly (i.e., cops cannot handcuff criminals, cannot use their stun guns, or all fines are $1) in conjunction with a law stating no arresting. PD is KOS to everyone, including CPs!",
@@ -246,7 +244,6 @@ var l_messages = [
 	"No self-promotion without permission: Avoid sharing personal websites, social media, or promotional content without permission from the server admins!",
 	"Be respectful and show respect to all members of the Server. Harassment and bullying are not allowed in any form and may result in being muted or kicked!",
 	"Be respectful Treat others with respect and kindness. Avoid hate speech, discrimination, and harassment!",
-	"We understand that you want to grow your community, but we do not want the chats to be flooded with links to different servers. You can message one of the Owners to request a Partnership between servers!",
 	"Erotic roleplay, in any form, is strictly prohibited. This includes sexual harassment!",
 	"Breaking rules outside of AN and having it reported to us may result in equal punishment here. You are responsible for your own actions. Examples: Excessive racism, excessive harassment, excessive bullying, causing harm to other community members or communities!",
 	"The Server is not equipped to handle your personal issues. It's not that we don't care; it's just that we can't carry the weight of your problems. Do not talk about heavy psychological issues, and please seek help from a professional!",
@@ -266,7 +263,7 @@ var l_messages = [
 	"Do not distribute or provide access to content involving the hacking, cracking, or distribution of stolen goods, pirated content, or accounts. This includes sharing or selling game cheats or hacks!",
 	"Do not use this community to spam, manipulate engagement, or disrupt other people’s experiences, including trying to influence or disrupt conversations using bots, fake accounts, multiple accounts, or other automation. This includes purchasing or selling methods of artificially increasing membership, such as via advertisements or botting!",
 	"Do not harass others or organize, promote, or participate in harassment. Disagreements happen and are normal, but making continuous, repetitive, or severe negative comments or circumventing a block or ban can cross the line into harassment and is not okay!",
-	"No, we have zero tolerance for any kind of racism, homophobia, offensive slurs, being sexist, etc., which will result in a permanent ban!",
+	"We have zero tolerance for any kind of racism, homophobia, offensive slurs, being sexist, etc., which will result in a permanent ban!",
 	"Automation in any form for the purpose of collecting money is strictly forbidden and may result in a severe deduction from your account!",
 	"Users with exiled status earn it for going above and beyond to receive multiple permanent bans or if it's applied automatically via the Paypal IPN for lodging a dispute or chargeback on a transaction on this server. Exiled status is exclusively for users who have presented no redeemable qualities to deserve to participate on this server. To be exiled is to be an outcast never to return!",
 	"Most jobs can own a defense firearm (1 handed) to protect their property, not to be used as an attacking weapon and not to be drawn when not (RP) threatened.19. Body-blocking is not allowed if you are doing it to troll or be annoying!",
