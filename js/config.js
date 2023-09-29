@@ -213,7 +213,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
-        "Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
+        "We'd like to thank you for spending your time here at AN and supporting us throughout these past 2 years. I'm sure not all of you have been here that long, but it still means a lot to us that you have taken your time to support this community!",
+	"Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
 	"Bunnyhopping is prohibited in an RP scenario. Cheating in any form is prohibited; this includes scripts or exploiting server plugins!",
 	"You may not build above or block the NPCS in any way this includes building near it to restrict movement, building above it to limit your risk of selling it, or making a tunnel to the NPC to gain easy access for transactions. However, you may base near it!",
 	"Do not roleplay in the spawn please. (e.g., mugging, completing hits, etc.) Do not run into spawn to avoid an RP situation!",
@@ -222,7 +223,6 @@ var l_messages = [
 	"You cannot make laws that hinder CPs from doing their job properly (i.e., cops cannot handcuff criminals, cannot use their stun guns, or all fines are $1) in conjunction with a law stating no arresting. PD is KOS to everyone, including CPs!",
 	"Inappropriate usernames, pfps, banners, statuses, and bios are not allowed. Most violations of this rule will result in a kick on the first offence!",
 	"Any harassment, disrespect, and discrimination will not be tolerated. Be civilised and do not target other players with actions in the game or in chat. This game is meant to be fun; anyone coming on with the intent of disrupting people's experiences will be treated harshly!",
-	"In order to kill your kidnapped victim, you must bring them to your base first. Kidnapping them in the street, and when they wake up in the street, killing them, there is still RDM!",
 	"You may not abuse an advertisement warning to kill people for no valid reason, such as because the player has not done anything to provoke you. This is classified as RDM!",
 	"I am a player, and I disagree with the actions of administration on AN. If you do not agree with a kick or ban reason, you can play on a different server. All Garry's Mod servers are hosted by the community. Your access to the community server(s) is at the discretion of their administration!",
 	"A most well known threat to any gaming community, and all of Garry's Mod, and really all of video games, is the sexual abuse of children. We want to make sure AN is always a safe area for everyone to have fun and enjoy each other's company. We will be doing a few things to make this community safer for everyone. First, we will be adding additional rules to our site to prevent some instances of this. Secondly, we will be adding a dedicated report system for this type of abuse to ensure it gets the full attention it deserves. Thirdly, we will be partnering with CyberTip.org to properly investigate all reports we receive and make sure that law enforcement is properly informed of the situation!",
