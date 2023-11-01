@@ -188,6 +188,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "fnafsongmovie.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "instrumentalnotmyself.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
@@ -195,7 +196,7 @@ var l_musicPlaylist = [
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "sleeplessdavetheme.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafahafefeat.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "fnafmoviesongth.ogg", name: "【AN】 - Installation Music"},  
 ];
 
 // Random music order?
