@@ -229,7 +229,6 @@ var l_messages = [
 	"Show respect to all members of the server. Harassment and bullying are not allowed in any form and may result in being muted or kicked!",
 	"Reporting Suspicious Behavior: All members are encouraged to promptly report any suspicious behavior, content, or conversations related to pedophilia or child exploitation. Reports will be taken seriously and investigated thoroughly!",
 	"Be nice. Don’t try to start drama with other users. If it gets too crazy, you may be kicked or banned!",
-	"Consequences of Violation: If an individual is found to have engaged in actions related to paedophilia, they will be blacklisted and permanently banned from our platform without the possibility of appeal. Furthermore, any relevant information may be reported to the appropriate legal authorities!",
 	"No doxing, sending malicious links and files, threatening, or blackmailing!",
 	"Punishments for violating the rules stated below are based on a staff member's judgement. Judgements made by staff are final. If you feel your punishment was unfair, you can contact an administrator. Do not bother moderators about a punishment, as you may be muted for it!",
 	"No discrimination. Anything that brings hate towards sexuality or race is strictly prohibited!",
