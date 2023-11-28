@@ -189,10 +189,8 @@ var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "killerinp.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "fnafsongmovie.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "fnafmoviesongth.ogg", name: "【AN】 - Installation Music"},  
 ];
@@ -220,6 +218,7 @@ var l_messages = [
 	"Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
 	"Repeatedly leaving or suiciding to avoid encounters with Fnaf Animatronics or purposely spawning as a role you do not want is not allowed. Such behaviour disrupts the flow of the game and negatively affects others' experiences!",
 	"Where can I ask questions regarding technical help, gameplay, etc.? A: Feel free to ask in the appropriate channels in the discord our staff can still help you with that!",
+	"Be friendly with other users, keep unnecessary drama out, and discussions are allowed as long as all members partake in a respectful and productive matter. Emotionalizing or provocating discussions should be avoided. Homophobia, transphobia, racism, extremism, etc. are not tolerated in any way, shape, or form and will result in an instant ban. We will even go as far as to ban actions taken on other servers. The reason is that we believe freedom is a human right, and we do not tolerate enemies of freedom on our server!",
 	"Piracy is not allowed, discussion included, and we do not support the sharing of full game download links unless it is lost media, not commercially available anymore, or in the public domain!",
 	"Do not raid other servers. Discussing raids or participating in the raids of other servers will not be tolerated here. Raiding another server may result in a permanent ban from this one!",
 	"If its Serious or joke, about DDOS or DOXING, even in rr. This will as stated in the General Rules almost Immediately result in a Perm Ban!",
