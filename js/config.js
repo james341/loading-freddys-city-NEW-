@@ -215,7 +215,12 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
-        "Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
+        "Prop blocking, climbing, griefing and minging are not allowed. Do not make intrusive builds. Pointless builds may be removed. You must not have to use more than 3 fading doors to access your entire base and its contents. Base layout must be clear and concise. You must use signs for certain protections. Bases that are not being used may be force unowned/deleted by a staff member if another player wants it!",
+	"No police baiting. Value your life/freedom and strive to not get caught in a crime. Jail and fines are not to be treated lightly!",
+	"Do not RDM (Random Death Match) - killing another player without a valid roleplay reason or initiation!",
+	"Disconnecting from the server after being raided is not permitted and may result in a ban. If you lose a raid, don't be a spoil sport - give them a chance to benefit from their raid before leaving!",
+	"Do not break NLR - when killed, you must forget everything that happened in the past life, and may not return to the location of your death for at least 5 minutes or until the situation has ended!",
+	"Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
 	"Raiding must be done with Roleplay. It would be anti RP to just randomly walk to a door and bust it down with an auto shotgun and look and see what is inside!",
 	"No Blatant RDM is if you blatantly RDM someone on their T round (like walk up and Juan Deag them in the face at the start of the round when they’re afk), you may be slain an extra time at the discretion of the staff online. Same goes for blatantly RDMing a D. (except Pao, fuck that guy, always RDM Pao when you see him!",
 	"No harassing users We all have different opinions! That means we all have different ships, character options, etc. Healthy discussion is one thing; asking questions is normal, but getting mad at someone for their likes is unacceptable!",
