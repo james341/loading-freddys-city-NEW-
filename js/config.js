@@ -216,9 +216,12 @@ var l_messages = [
 	"No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
         "Prop blocking, climbing, griefing and minging are not allowed. Do not make intrusive builds. Pointless builds may be removed. You must not have to use more than 3 fading doors to access your entire base and its contents. Base layout must be clear and concise. You must use signs for certain protections. Bases that are not being used may be force unowned/deleted by a staff member if another player wants it!",
+	"Do not force people into jobs if they are not in the right rank to do so!"
 	"No police baiting. Value your life/freedom and strive to not get caught in a crime. Jail and fines are not to be treated lightly!",
 	"Do not RDM (Random Death Match) - killing another player without a valid roleplay reason or initiation!",
 	"Staff hold the rights to change the topic if they see that it'll end badly!",
+	"Breaking into someone's base can get you killed or arrested. Walking in, however, will get you killed or arrested after being asked to leave more than twice!",
+	"If your staff application has been denied, do not remake it asap. You will have to wait a week before remaking a new one!"
 	"Disconnecting from the server after being raided is not permitted and may result in a ban. If you lose a raid, don't be a spoil sport - give them a chance to benefit from their raid before leaving!",
 	"Community Management reserve the right to change the rules at any point, with no notice given. Please make sure to stay up to date on the rules!",
 	"Do not break NLR - when killed, you must forget everything that happened in the past life, and may not return to the location of your death for at least 5 minutes or until the situation has ended!",
@@ -230,6 +233,7 @@ var l_messages = [
 	"Do not disconnect, suicide, change jobs, change names, etc. to get out of a roleplay/staff situation. This will result in a harsher or additional punishment!",
 	"Do not prop block. Prop blocking is blocking an area with a prop so nobody can get past it. For something to not be a prop block, there must be a keypad on the outside. If there is a prop blocking another entrance in the area, it still needs a keypad!",
 	"Repeatedly leaving or suiciding to avoid encounters with Fnaf Animatronics or purposely spawning as a role you do not want is not allowed. Such behaviour disrupts the flow of the game and negatively affects others' experiences!",
+	"Do not collide cameras and shoot them into other people's bases; this is known as camera abuse!"
 	"Any harassment, disrespect, and discrimination will not be tolerated. Be civilised and do not target other players with actions in the game or in chat. This game is meant to be fun; anyone coming on with the intent of disrupting people's experiences will be treated harshly!",
 	"You are not to talk badly about any other communities on this discord or gmod server, regardless of their actions. So long as you are within limits of AN , you are never to talk badly about another community!",
 	"Be respectful Treat others with respect and kindness. Avoid hate speech, discrimination, and harassment!",
