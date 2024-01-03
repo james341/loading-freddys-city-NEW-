@@ -147,6 +147,8 @@ var l_bgImages = [
 	"image73.jpg",
 	"image74.jpg",
 	"image75.jpg",
+	"image76.jpg",
+	"image77.jpg",
 
 ];
 
@@ -284,7 +286,7 @@ var l_messages = [
 	"Our goal is to have a clean, friendly, and enjoyable gaming environment for our players, which is why we have established a set of rules that we expect both players and staff to abide by at all times. Please review the list below, and as always, if you have any questions, feel free to contact a [AN] staff member!",
 	"No pornographic, adult, or other NSFW material The idea behind the server is to provide a safe place for us to share art, videos, and other kinds of creative material—not  the aforementioned NSFW material!",
 	"No advertisements No invasive advertising, whether it be for other communities or streams. You can post your content in the media channel in oir discord if it’s relevant and provides actual value for the community!",
-	"The AN reserves the right, at any time without notice, to revise these rules and guidelines by updating this posting. Players and staff agree to be bound by such revisions and should periodically revisit this post to review the current rules and guidelines listed herein!",
+	"We, reserves the right, at any  specific time without any notice, to revise these rules and guidelines by updating this posting. Players and staff agree to be bound by such revisions and should periodically revisit this post to review the current rules and guidelines listed herein!",
 	"Engaging in phishing, scamming, or any other illegal activities within the game or community is strictly prohibited. We maintain a zero-tolerance policy for such behaviour!",
 	"Do not distribute or provide access to content involving the hacking, cracking, or distribution of stolen goods, pirated content, or accounts. This includes sharing or selling game cheats or hacks!",
 	"Do not use this community to spam, manipulate engagement, or disrupt other people’s experiences, including trying to influence or disrupt conversations using bots, fake accounts, multiple accounts, or other automation. This includes purchasing or selling methods of artificially increasing membership, such as via advertisements or botting!",
