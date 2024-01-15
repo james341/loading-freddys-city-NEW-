@@ -224,7 +224,7 @@ var l_messages = [
 	"Don't metagame don't use information from outside of RP, e.g., the killfeed or someone's job title, in roleplay!",
 	"no discriminating on the basis of race, gender, religion, sexual orientation, etc., or using slurs!",
 	"Bunnyhopping is prohibited in an RP scenario. Cheating in any form is prohibited; this includes scripts or exploiting server plugins!",
-	"Report any rule violations to the "important" people, and tagging moderators for no reason is not allowed!",
+	"Report any rule violations to the important people, and tagging moderators for no reason is not allowed!",
 	"Be respectful to everyone Do not use discriminatory language (jokingly or not), targeted harassment (or harassment in general), etc. can't believe I have to add this but this also includes NO RAPE JOKES. if you constantly make jokes that are in bad taste you will be banned!",
 	"You may not build above or block the NPCS in any way this includes building near it to restrict movement, building above it to limit your risk of selling it, or making a tunnel to the NPC to gain easy access for transactions. However, you may base near it!",
 	"The use of profanity should be kept to a reasonable minimum. Any derogatory language towards any user is prohibited. Swearing is permitted in casual channels only, while the official help and code channels should be kept free of any profane language!",
