@@ -194,6 +194,7 @@ var l_musicPlaylist = [
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "violentvincentlandmines.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "biketwo.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "synapsonhideaway.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "skibidifortnite.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
