@@ -192,9 +192,11 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "violentvincentlandmines.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "biketwo.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "skibidifortnite.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "godmadetrump.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "fnafmoviesongth.ogg", name: "【AN】 - Installation Music"},  
