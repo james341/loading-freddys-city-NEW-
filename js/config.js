@@ -200,8 +200,7 @@ var l_musicPlaylist = [
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "boulevardbox.mp3", name: "【AN】 - Installation Music"},
 	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "blindinglights.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},  
 ];
 
 // Random music order?
