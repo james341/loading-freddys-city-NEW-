@@ -194,12 +194,13 @@ var l_musicPlaylist = [
 	{ogg: "absofacto.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "johnyyespapanursery.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "tunnewdsafnewtun.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "smokindsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},  
 ];
 
