@@ -219,7 +219,7 @@ var l_messages = [
 	"No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
 	"No Harassment or Discrimination: Harassment, discrimination, hate speech, or any form of personal attacks will not be tolerated!",
         "Nazism Display of swastikas, the nazi salute, or other glorification of nazism is prohibited, even for roleplay purposes Server information!",
-	"Ah, here's a groundbreaking rule: No Nazi symbols, salutes, or glorification. Because apparently, we needed to clarify that celebrating genocide isn't the vibe we're going for, even if you're just 'roleplaying' a dictator!
+	"Ah, here's a groundbreaking rule: No Nazi symbols, salutes, or glorification. Because apparently, we needed to clarify that celebrating genocide isn't the vibe we're going for, even if you're just 'roleplaying' a dictator!",
 	"Well, isn't this just a groundbreaking revelation: Make sure you exclusively use English for all in-game communications. Because, you know, we're all linguists here just dying to decode your secret messages in Klingon or something!",
 	"No Blatant RDM is if you blatantly RDM someone on their T round (like walk up and Juan Deag them in the face at the start of the round when they’re afk), you may be slain an extra time at the discretion of the staff online. Same goes for blatantly RDMing a D. (except Pao, fuck that guy, always RDM Pao when you see him!",
 	"Above all, remember that the goal of the server is to provide an enjoyable experience for everyone. Have fun and contribute positively to the community!",
