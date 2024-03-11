@@ -194,13 +194,11 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "absofacto.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "ghostbusterdsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "neighbourhood.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "athephoneharrygoodnight.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "schnuffelkuschelsong.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},  
 ];
 
