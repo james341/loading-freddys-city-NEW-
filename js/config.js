@@ -197,6 +197,8 @@ var l_musicPlaylist = [
 	{ogg: "flufflepuffpfudor.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "disneyextremejumpspinning.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "discordsong.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "fnafsbdayecareshit.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "schnuffelkuschelsong.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},  
