@@ -201,6 +201,7 @@ var l_musicPlaylist = [
 	{ogg: "smokindsafmusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "freddyfazbearpizzeriasimulatormaintheme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "skibidifortnite.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "discordsong.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "fnafsbdayecareshit.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "【AN】 - Installation Music"},
