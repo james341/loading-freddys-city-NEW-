@@ -199,6 +199,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "smokindsafmusic.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "snapsonhideawaykbps.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "freddyfazbearpizzeriasimulatormaintheme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "skibidifortnite.ogg", name: "【AN】 - Installation Music"},
