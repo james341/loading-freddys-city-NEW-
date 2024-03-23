@@ -153,6 +153,11 @@ var l_bgImages = [
 	"image79.jpg",
 	"image80.jpg",
 	"image81.jpg",
+	"image82.jpg",
+	"image83.jpg",
+	"image84.jpg",
+	"image85.jpg",
+	"image86.jpg",
 
 ];
 
@@ -194,8 +199,6 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "smokindsafmusic.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "disneyextremejumpspinning.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "davethemeend3.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "discordsong.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "fnafsbdayecareshit.ogg", name: "【AN】 - Installation Music"},
