@@ -198,10 +198,9 @@ var l_musicDisplay = true;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "harrystylesasitwas.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "tuckedup.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "schnuffelkuschelsong.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafbirthday.ogg", name: "【AN】 - Installation Music"},  
 ];
 
@@ -288,7 +287,6 @@ var l_messages = [
 	"It is illegal to discharge any weapon other than a licenced pistol (only when used in self-defense) at all times. It is not illegal to possess weapons unless you have been caught by law enforcement brandishing them in public and/or discharging or using them with intent to commit a crime. However, it is illegal to enter or attempt to enter a government facility and/or bank with any weapons unless you are a member of law enforcement or bank security under the respective ban!",
 	"Treat everyone on the server with respect, including other server members, moderators, and creators, regardless of whether they are present at the time or not. If someone asks you to stop talking or joking about a certain topic, it is your responsibility to drop it!",
 	"FearRP refers to when your character perceives their life to be in danger and consequently refrains from actions that would contradict that fear. This principle can be applied to a variety of situations for consistency and immersion!",
-	"All sprays containing NSFW or other derogatory content are not allowed. Decisions based on this are up to staff interpretation. Admins, while they must follow server rules, have the final say on decisions!",
 	"Please do Not contact staff about your application. Rejected Applications may be resubmitted with changes the staff team has requested in one week. If your application has not been responded to within 3 days, please contact us via Discord, Master Doge#0192 , QWERTY#8219 , Cookie12#5485 , 1noahdavid07#0418, Connor3462#3260!",
 	"Proceeding beyond the police department lobby constitutes an act of AOS (Arrest On Sight), while attempting to release prisoners or exhibiting hostile behavior while armed beyond the lobby is deemed KOS (Kill On Sight)",
 	"Well, isn't it just delightful that we have to remind everyone not to spam? Because clearly, flooding the chat with nonsense is the epitome of productive conversation! Remember folks, no disrupting the peace by spamming. That means no excessive text, voice, or even soundboards! And just in case you missed the memo, after a gentle warning, you'll be bestowed with the gift of silence - a lovely mute awaits you!",
@@ -329,7 +327,7 @@ var l_messages = [
 	"Engaging in phishing, scamming, or any other illicit activities within the game or community is strictly prohibited. We uphold a zero-tolerance policy against such behavior and will enforce it accordingly!",
 	"Do not share or grant access to any content related to hacking, cracking, or the distribution of stolen goods, pirated content, or accounts. This encompasses the sharing or selling of game cheats or hacks!",
 	"Do not use this community to spam, manipulate engagement, or disrupt other people’s experiences, including trying to influence or disrupt conversations using bots, fake accounts, multiple accounts, or other automation. This includes purchasing or selling methods of artificially increasing membership, such as via advertisements or botting!",
-	"Do not harass others or organize, promote, or participate in harassment. Disagreements happen and are normal, but making continuous, repetitive, or severe negative comments or circumventing a block or ban can cross the line into harassment and is not okay!",
+	"no harassing others or organize, promote, or participate in harassment. Disagreements happen and are normal, but making continuous, repetitive, or severe negative comments or circumventing a block or ban can cross the line into harassment and is not okay!",
 	"we have a strict zero-tolerance policy towards racism, homophobia, offensive slurs, sexism, and any form of discrimination or hate speech. Engaging in such behavior will result in an immediate and permanent ban from the server. We are committed to fostering a welcoming and inclusive community where all individuals feel respected and valued. Let's work together to maintain a positive and respectful environment for everyone!",
 	"Well, isn't that just splendid? Because nothing enhances the gaming experience like being slapped with a hefty fine for trying to automate the money-grabbing process. Ah, the joy of manual labor in the digital age!",
 	"Users with exiled status earn it for going above and beyond to receive multiple permanent bans or if it's applied automatically via the Paypal IPN for lodging a dispute or chargeback on a transaction on this server. Exiled status is exclusively for users who have presented no redeemable qualities to deserve to participate on this server. To be exiled is to be an outcast never to return!",
