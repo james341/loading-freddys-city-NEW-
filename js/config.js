@@ -198,6 +198,7 @@ var l_musicDisplay = true;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "dontstopmenowdsafmbox.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "tenblueskadayonetheme.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "davesmusicmate.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "imbeliever.ogg", name: "【AN】 - Installation Music"},
@@ -228,7 +229,7 @@ var l_messages = [
 	"Chat flooding is strictly prohibited: This entails the repetitive transmission of the same message at a rapid pace. Such messages can be extensive and offensive, though occasionally they may contain only a single character!",
 	"Do not promote rule-breaking behavior among others. Intervening with a moderator's duties or disclosing concealed tags intended for moderators is not allowed. Fabricating reports or misusing the in-game reporting feature is strictly prohibited!",
 	"All occupations (excluding minors and similar groups) are permitted to possess a single-handed defensive firearm to safeguard their property. It must not be utilized as an offensive weapon and should remain holstered unless there is a role-play (RP) threat.!",
-	"We do not offer refunds for donations or packages, including VIP or PAC3 Access. Change-of-mind refunds for purchased items are not available. AN does not have a contractual obligation to provide donation packages. Donation packages may be revoked, and content may be subject to change!",
+	"Refunds for donations or packages, including VIP or PAC3 Access, are not provided. Change-of-mind refunds for purchased items are not available. AN does not have a contractual obligation to provide donation packages. Donation packages may be revoked, and content is subject to change!",
 	"No sensitive content allowed. We maintain a zero-tolerance policy for materials such as pornography, pedophilia, gore, etc. Posting images or videos containing such content will result in immediate mute, kick, or ban!",
 	"You are allowed to designate your base as 'building' using a text screen while constructing defenses initially. However, it's mandatory to remove the building sign as soon as construction is complete. It is prohibited to raid a base labeled as 'building!",
 	"It is strictly prohibited to abuse administrative privileges, including inciting unrest, disrupting channels unnecessarily, or assigning roles that are not within your authority. Violations will result in disciplinary action ranging from a warning to removal of admin rights or a ban lasting 15 to 45 days!",
@@ -254,6 +255,7 @@ var l_messages = [
 	"Oh, just a friendly reminder: showing disrespect towards any of our players or staff members, for any reason whatsoever, is completely prohibited. Yeah, we take that pretty seriously!",
 	"No NSFW (Not Safe For Work) content, including gore, pornographic material, or any other content considered distasteful by staff, is permitted in any channel. Additionally, spoilers for movies, TV shows, etc., are prohibited for one month following their release. If you intend to share a spoiler, it must be properly concealed and clearly marked as such!",
 	"Please be aware that any content considered 18+ is strictly forbidden. This encompasses explicit material like adult content, gore, and discussions on mature topics. Our goal is to uphold a safe and respectful environment for all members, and we kindly request your cooperation in adhering to this guideline!",
+	"Banning for arguments is not permitted. Everyone has the right to respond to an admin. If a player becomes offensive, simply mute or ignore them like any other user!",
 	"Harassment is strictly prohibited. If you witness harassment directed towards anyone in the server or observe persistent harassment between individuals, please inform us immediately. Violating this rule will result in a 5-10 minute timeout. Continued harassment may escalate to a 1-hour timeout, a one-week timeout, or even a ban in extreme cases!",
 	"Any infractions of these rules will prompt our dedicated moderators to issue a warning. Persisting in rule violations may lead to being kicked out of the server, and in severe cases, being permanently banned. Therefore, we kindly urge you to refrain from causing disruptions. Wishing you a pleasant day!",
 	"Racism, offensive language, and slurs are absolutely unacceptable. Violation of this rule will lead to a warning or a one-minute timeout. In severe cases, such behavior may result in a one-week timeout, a kick, or a ban from the server!",
@@ -264,7 +266,6 @@ var l_messages = [
 	"Under no circumstances should you threaten to initiate a DDoS attack on the server. Such actions will result in an immediate and permanent ban, regardless of whether it was intended as a joke!",
 	"It is strictly prohibited to publish personal information, such as real names, addresses, emails, passwords, bank account, and credit card information, among others!",
 	"Inappropriate or illegible usernames are not permitted. If such usernames are detected, the staff reserves the right to change them to a suitable alternative and may issue a warning accordingly!",
-	"We have a zero-tolerance policy towards racism, homophobia, and transphobia in all channels. Any instances of such behavior will lead to an immediate ban!",
 	"Racial slurs, homophobic comments, or any other offensive remarks are prohibited according to the rules. Staff have the final authority to determine what is permissible!",
 	"Ah, what an absurd idea! Let's imagine a world where real-world knowledge mysteriously disappears. After all, who needs common sense or any semblance of realism in roleplay, am I right!",
 	"Oh, how delightful, we have to remind everyone not to use inappropriate or offensive names! Because clearly, nothing screams 'classy' like a vulgar username, right? But don't worry, we'll politely ask you to change it, or if you're feeling lazy, we'll do it for you. And just a friendly heads-up, persisting with your creative naming choices might earn you a swift kick followed by a ban. Cheers to keeping it classy, folks!",
