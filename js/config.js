@@ -200,7 +200,7 @@ var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "mamapapabrickolinimusic.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "twobirdsregina.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "gamewithbaby.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "dsafweaselpop.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "tenblueskadayonetheme.ogg", name: "【AN】 - Installation Music"},
