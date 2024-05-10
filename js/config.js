@@ -197,16 +197,17 @@ var l_musicDisplay = true;
 // (Place the Ogg files in the music folder)
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
-	{ogg: "moonlianaflores.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "mamapapabrickolinimusic.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafrealgoodending.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "gamewithbaby.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafweaselpop.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "rocketman.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "tenblueskadayonetheme.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "cooldsafmusicbro.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "allcouldbesavedhday.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "dsafbirthday.ogg", name: "【AN】 - Installation Music"},  
+	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
+	{ogg: "mamapapabrickolinimusic.ogg", name: "Installation Music"},
+        {ogg: "darxieland.ogg", name: "Installation Music"},
+	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
+	{ogg: "gamewithbaby.ogg", name: "Installation Music"},
+	{ogg: "dsafweaselpop.ogg", name: "Installation Music"},
+	{ogg: "rocketman.ogg", name: "Installation Music"},
+	{ogg: "tenblueskadayonetheme.ogg", nname: "Installation Music"},
+	{ogg: "cooldsafmusicbro.ogg", name: "Installation Music"},
+	{ogg: "allcouldbesavedhday.ogg", name: "Installation Music"},
+	{ogg: "dsafbirthday.ogg", name: "Installation Music"}, 
 ];
 
 // Random music order?
