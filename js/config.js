@@ -198,9 +198,8 @@ var l_musicDisplay = true;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
-	{ogg: "mamapapabrickolinimusic.ogg", name: "Installation Music"},
-        {ogg: "darxieland.ogg", name: "Installation Music"},
-	{ogg: "cailloulilboom.ogg", name: "Installation Music"},
+	{ogg: "darxieland.ogg", name: "Installation Music"},
+	{ogg: "collmusicbrofromyourdad.ogg", name: "Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
 	{ogg: "gamewithbaby.ogg", name: "Installation Music"},
 	{ogg: "dsafweaselpop.ogg", name: "Installation Music"},
@@ -290,7 +289,6 @@ var l_messages = [
 	"When you call a raid outside the target building, you can’t kill people who mean you no harm. If you wish to secure the area outside, employ fear RP first if the users still will not remove themselves from the area you may kill them. - The only reason to kill someone who is standing outside the building you’re raiding is if they have weapons un-holstered, they own the building (Thus want to kill you to defend said building), or they are CP. Inside the building the user can kill anyone they wish, this rule applies in public areas outside the raided building!",
 	"You Keep What You Kill: - If person A kills person B and person B drops loot (guns, printers, etc) from their pockets on death. That loot now belongs to person A, if they wish to claim it. No one else can take it unless person A doesn't want it, if this is the case, anyone can claim the items. There are two reasons someone can intervene if the items are illegal or the act wasn't in self-defense CP can collect/destroy the items from person B and arrest/kill person A, depending on the items and the circumstances of the killing. The teammates of person B can also collect the items of person B, more likely after they killed person A for slaying their teammate (this rule falls under fear RP, if someone murdered someone else in real life, you wouldn't run over to the dead guy and immediately start stealing from him because you would fear the murderer and what he/she would do to you!",
 	"Heavy Arms Dealer may sell weapons legally. (Non-Donator Gun Dealers must purchase a gun license from the Mayor!",
-	"Don't speak or joke about DDOS or DOXING, even in role-play!",
 	"Do not metagame. You cannot warrant based off hearing money printers or meth labs through the walls or seeing someone killed in the killfeed!",
 	"Corrupt Civil Protection roles are permitted within reasonable limits. When portraying a Corrupt Civil Protection character, ensure you stay in character and refrain from disruptive behavior (minge)!",
 	"Please refrain from activities that may jeopardize or exploit the integrity of the server!",
