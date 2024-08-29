@@ -158,6 +158,14 @@ var l_bgImages = [
 	"image84.jpg",
 	"image85.jpg",
 	"image86.jpg",
+	"image87.jpg",
+	"image88.jpg",
+	"image89.jpg",
+	"image90.jpg",
+	"image91.jpg",
+	"image92.jpg",
+	"image93.jpg",
+	"image94.jpg",
 
 ];
 
@@ -232,7 +240,6 @@ var l_messages = [
 	"Refrain from making any sexual jokes, innuendos, or engaging in any form of sexual or inappropriate role play scenarios. If any member expresses discomfort with the situation, please cease immediately. This directive also extends to the exchange of sexual or erotic messages through Discord relay!",
 	"All occupations (excluding minors and similar groups) are permitted to possess a single-handed defensive firearm to safeguard their property. It must not be utilized as an offensive weapon and should remain holstered unless there is a role-play (RP) threat.!",
 	"No Refunds for donations or packages, including VIP or PAC3 Access, are not provided. Change-of-mind refunds for purchased items are not available. AN does not have a contractual obligation to provide donation packages. Donation packages may be revoked, and content is subject to change!",
-	"No sensitive content allowed. We maintain a zero-tolerance policy for materials such as pornography, pedophilia, gore, etc. Posting images or videos containing such content will result in immediate mute, kick, or ban!",
 	"Remarkable revelation indeed. It appears that displaying swastikas, performing the Nazi salute, or glorifying Nazism are unequivocally prohibited. We appreciate this enlightening update, dear community members!",
 	"Ah, here's a groundbreaking rule: No Nazi symbols, salutes, or glorification. Because apparently, we needed to clarify that celebrating genocide isn't the vibe we're going for, even if you're just 'roleplaying' a dictator!",
 	"Absolutely refrain from any suggestion or mention of DDoSing the server under any circumstances. We are actively monitoring and prepared to enforce permanent bans without hesitation, regardless of intent or humor!",
@@ -300,8 +307,6 @@ var l_messages = [
 	"Promote engagement among members by inviting their active participation in server events and storylines. Such events may encompass a variety of in-game activities, quests, or contests, fostering a dynamic and enriching experience for all!",
 	"Prohibition of Offensive Language: The use of homophobic, transphobic, racist, or any other generally offensive language is strictly prohibited. :mt: :ro: While swearing is permitted, it is expected to be utilized in a non-destructive and respectful manner!",
 	"Maintain Harmony: We kindly request refraining from instigating or circulating drama, including avoiding political discussions. It's advisable to steer clear of topics that may incite unnecessary debates or disruptive behavior. In the event of such occurrences, it is preferred to address them privately or agree to respectfully disagree!",
-	"Do not disclose the personal information of another person, such as an address, phone number, geographical location, photos, or other personally identifying information, without explicit consent from the person. In the event of a player or staff member breaking a rule associated with our Discord server, we will operate according to the guidelines set below when it comes to resolution and infraction consequences based on the severity of the infraction. The consequences below are in order of severity, and the staff has sole discretion to skip a lesser punishment if they deem the infraction to be more severe than what the consequence calls for. The individual(s) must be issued a written or verbal warning!",
-	"Do not steal work vehicles. You must drive vehicles in a reasonably roleplaying manner. Driving like an idiot will result in your car being deleted and/or you receiving a car ban for the rest of the session. Intentionally damaging or blowing up vehicles to annoy, injure, or kill other players without a valid RP reason is not allowed!",
 	"We do not tolerate Illegal Activities Engaging in phishing, scamming, or any other illegal activities within the game or community is strictly prohibited. We maintain a zero-tolerance policy for such behaviour!",
 	"Make sure to adhere to the extra rules tailored for our server community. This could cover lore regulations, roleplay themes, or unique server functionalities. Oh, and by the way, spamming is a big no-no!",
 	"May I kindly request that all players maintain a demeanor of respect towards one another at all times. Acts such as harassment, toxicity, and unfounded out-of-game allegations are firmly forbidden. Additionally, any form of cheating or exploitation within the game is strictly prohibited!",
