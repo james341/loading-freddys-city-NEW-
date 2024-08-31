@@ -166,6 +166,7 @@ var l_bgImages = [
 	"image92.jpg",
 	"image93.jpg",
 	"image94.jpg",
+	"image95.jpg",
 
 ];
 
@@ -206,17 +207,18 @@ var l_musicDisplay = true;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "flipsidedsaf.ogg", name: "Installation Music"},
-	{ogg: "zipadeedoodahmandg.ogg", name: "Installation Music"},
-	{ogg: "fnafsongmovie.ogg", name: "Installation Music"},
-	{ogg: "johnyyespapanursery.ogg", name: "Installation Music"},
+	{ogg: "dayshiftfpizza.og", name: "Installation Music"},
+	{ogg: "tuckedup.ogg", name: "Installation Music"},
+	{ogg: "superIdolsng.ogg", name: "Installation Music"},
+	{ogg: "schnuffelkuschelsongInstrumentaltwo.ogg", name: "Installation Music"},
 	{ogg: "adventuresajhimitsu.ogg", name: "Installation Music"},
-	{ogg: "skibidifortnite.ogg", name: "Installation Music"},
+	{ogg: "violentvincentlandmines.ogg", name: "Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
-	{ogg: "pippedpants.ogg", name: "Installation Music"},
+	{ogg: "ghostbusterdsaf.ogg", name: "Installation Music"},
 	{ogg: "tenblueskadayonetheme.ogg", nname: "Installation Music"},
 	{ogg: "cooldsafmusicbro.ogg", name: "Installation Music"},
-	{ogg: "monicaigotnomusic.ogg", name: "Installation Music"},
-	{ogg: "davesmusicmate.ogg", name: "Installation Music"}, 
+	{ogg: "schnuffelkuschelsong.ogg", name: "Installation Music"},
+	{ogg: "schnuffelkuschelsongInstrumental.ogg", name: "Installation Music"}, 
 ];
 
 // Random music order?
@@ -247,7 +249,6 @@ var l_messages = [
 	"Please maintain a drama-free environment in this server. While someone might express opinions or comments you disagree with, let's avoid prolonging conflicts. Instead, strive to set a positive example. If necessary, address issues through direct messages, or in more serious cases, allow the moderators or administrators to handle the situation!",
 	"No arguing with Staff. Their role is to ensure everyone adheres to the rules, and they have the authority to enforce punishments as they see fit. If you believe you were unjustly muted or didn't violate any rules, be sure to bring it to the attention of a higher-ranking member of the team!",
 	"Well, folks, here's a gem for you: apparently, accidentally offing someone in a good ol' crossfire isn't considered RDM... unless, of course, you had some nefarious intent. Oh, and if someone decides to waltz into your line of fire, no worries! Just toss 'em a couple of coins, and all's forgiven! Oh, and hey, same goes for accidentally turning someone into roadkill, too! Just your typical day in the rulebook!",
-	"No behaviour or language which can be considered but not limited to; Harassment, Defamatory, Homophobic, Sexually Explicit, Encouragement of Self-Harm, Racially, Ethnically or otherwise offensive!",
 	"Using derogatory language or offensive terms to refer to fellow players is not tolerated on this platform. Such behavior, including calling players 'retarded,' is a violation of our community guidelines and will result in a ban from the game. We encourage a positive and inclusive gaming environment for everyone!",
 	"You are prohibited from killing another player based on discriminatory factors such as race, sexual orientation, gender, etc. Engaging in such behavior will be treated as a severe form of Random Deathmatch (RDM) and will result in an immediate ban!",
 	"Oh, just a friendly reminder: showing disrespect towards any of our players or staff members, for any reason whatsoever, is completely prohibited. Yeah, we take that pretty seriously!",
@@ -316,7 +317,6 @@ var l_messages = [
 	"Engaging in phishing, scamming, or any other illicit activities within the game or community is strictly prohibited. We uphold a zero-tolerance policy against such behavior and will enforce it accordingly!",
 	"Do not share or grant access to any content related to hacking, cracking, or the distribution of stolen goods, pirated content, or accounts. This encompasses the sharing or selling of game cheats or hacks!",
 	"we have a strict zero-tolerance policy towards racism, homophobia, offensive slurs, sexism, and any form of discrimination or hate speech. Engaging in such behavior will result in an immediate and permanent ban from the server. We are committed to fostering a welcoming and inclusive community where all individuals feel respected and valued. Let's work together to maintain a positive and respectful environment for everyone!",
-	"Well, isn't that just splendid? Because nothing enhances the gaming experience like being slapped with a hefty fine for trying to automate the money-grabbing process. Ah, the joy of manual labor in the digital age!",
 	"Users with exiled status earn it for going above and beyond to receive multiple permanent bans or if it's applied automatically via the Paypal IPN for lodging a dispute or chargeback on a transaction on this server. Exiled status is exclusively for users who have presented no redeemable qualities to deserve to participate on this server. To be exiled is to be an outcast never to return!",
 	"Anyone with the exiled status has earned it for going above and beyond to receive multiple bans within our communities and/or have tried to lodge a dispute or even try to chargeback (as it's against our policy of refunds). Being exiled makes you an outcast Users who were exiled are not to be mentioned within the community!",
 	"Animatronics are restricted to the restaurant premises and are not allowed to pursue players outside its boundaries. However, they are permitted to intercept and apprehend any child before they leave the establishment!",
