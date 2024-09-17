@@ -177,8 +177,8 @@ var l_messages = [
 	"Respect Fellow Players: Treat all players with respect, both in and out of character. Bullying, harassment, or toxicity will not be tolerated!",
 	"After reading this and joining the server you here by adhere to these terms and conditions. If you fail to follow the terms and conditions then punishments such as permanent bans may be in favor of the staff team!",
 	"Exercise common sense while participating and communicating within the server. Refrain from encouraging others to violate rules, avoid spamming staff members, and generally employ rational judgment in your interactions. Please use your discretion!",
-	"my brother in christ, sites like these are inacurrate as shit, if they were then my good ol pal would be swimmin in gold!"
-	"It seems like a flawed system if no moderation occurs during that process. You would expect there to be a middleman overseeing interactions before a billboard is approved for display in a server, especially one that likely attracts a large number of younger players!"
+	"my brother in christ, sites like these are inacurrate as shit, if they were then my good ol pal would be swimmin in gold!",
+	"It seems like a flawed system if no moderation occurs during that process. You would expect there to be a middleman overseeing interactions before a billboard is approved for display in a server, especially one that likely attracts a large number of younger players!",
 	"Following today’s unfortunate incident, we can no longer allow unrestricted access to billboard signs for all users. We trust you understand our commitment to maintaining a positive environment and the necessity of this measure!",
 	"No Excessive Killing: Because, of course, the animatronics should totally focus on enhancing the role-play experience instead of, you know, doing what animatronics do best!",
 	"No Blatant RDM is if you blatantly RDM someone on their T round (like walk up and Juan Deag them in the face at the start of the round when they're afk), you may be slain an extra time at the discretion of the staff online. Same goes for blatently RDMing a D!",
