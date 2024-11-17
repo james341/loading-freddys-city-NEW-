@@ -176,7 +176,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Please help us maintain an elegant and respectful atmosphere. Avoid sharing GIFs or offensive content through text signs. We encourage signs that complement the thematic essence of role-playing. Kindly remember that expressions of racism, pornography, or religious denigration are strictly prohibited in this space!",
-	"After reading this and joining the server you here by adhere to these terms and conditions. If you fail to follow the terms and conditions then punishments such as permanent bans may be in favor of the staff team.!",
+	"After reading this and joining the server you here by adhere to these terms and conditions. If you fail to follow the terms and conditions then punishments such as permanent bans may be in favor of the staff team!",
 	"Respect Fellow Players: Treat all players with respect, both in and out of character. Bullying, harassment, or toxicity will not be tolerated!",
 	"Respect other players. Try to avoid arguments - If someone is annoying you, screenshot/record their behaviour if you believe it is rule-breaking, or simply mute/ignore them. Ignorance is bliss. And especially NO illicit behaviour. Do not harass players in an illicit, disgusting or creepy way. Keep interpersonal drama to DMs, even if said drama started in the server. The server is not a platform for arguments!",
 	"After reading this and joining the server you here by adhere to these terms and conditions. If you fail to follow the terms and conditions then punishments such as permanent bans may be in favor of the staff team!",
@@ -212,7 +212,6 @@ var l_messages = [
 	"Well, I'm sure you're all aware of this revolutionary concept: Please refrain from flooding the chat or voice channels with your endless banter. Because, you know, we're all just dying to hear your life story while we're trying to play!",
 	"Well, isn't that just an exciting announcement: All are welcome to share in the discussion! But let's make sure we don't drown out the deep intellectual conversations with a tidal wave of GIFs, images, and videos. I mean, who needs good conversation when you can spam the discussion board with cat memes!",
 	"Oh, how delightful! Let's all play dress-up with our usernames and profile pictures like it's a kindergarten costume party. And don't forget, one strike and you're out! Because heaven forbid we have any fun around here!",
-	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over!",
 	"Breaking rules outside of our community and having it reported to us may result in equal punishment here. You are responsible for your own actions!",
 	"To maintain the principles of dignity and respect within our community, we strictly prohibit the display of swastikas, the Nazi salute, or any glorification of Nazism, regardless of context, including roleplay scenarios. This rule applies to all users on the server, without exception!",
 	"Disrespect, and discrimination will not be tolerated. Be civilised and do not target other players with actions in the game or in chat. This game is meant to be fun; anyone coming on with the intent of disrupting people's experiences will be treated harshly!",
