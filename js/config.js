@@ -185,7 +185,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
 	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
-        "This is a community server. We do not allow discussion of adult or NSFW content, and images or videos containing NSFW material are prohibited!",
+        "ERP (Erotic Roleplay) is strictly forbidden! Engaging in ERP is a direct violation of server rules and will result in a ban. Please respect the community guidelines!",
 	"If you have an argument with another member(s) of this server, please contact a moderator or admin immediately so we can dispute the matter. This is supposed to be a fun place, so if you have to have an argument, please do it in PM!",
 	"Discussing raids or participating in the raids of other servers will not be tolerated here. Raiding another server may result in a permanent ban from this one!",
 	"Promoting your own company or organization outside of the server is not allowed unless you have permission from the founders. However, in-game businesses are permitted!",
