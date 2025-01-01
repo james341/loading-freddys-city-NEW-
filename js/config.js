@@ -168,9 +168,8 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "newdsafmusiccoolrightxd.ogg", name: "Installation Music"},
 	{ogg: "johnyyespapanursery.ogg", name: "Installation Music"},
-	{ogg: "fnafsbdayecareshit.ogg", name: "Installation Music"},
+	{ogg: "dsafremove.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
-	{ogg: "absofacto.ogg", name: "Installation Music"},
 	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"},
 	{ogg: "ryeryeintro.ogg", name: "Installation Music"}, 
 ];
