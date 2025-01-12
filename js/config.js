@@ -188,21 +188,20 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"No GIFs or offensive material on text signs and keep your signs in role-playing. (no random signs) (Racist/Pornographic/Bashing of religions etc are not tolerated!",
-	"Use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
-        "ERP (Erotic Roleplay) is strictly forbidden! Engaging in ERP is a direct violation of server rules and will result in a ban. Please respect the community guidelines!",
+	"Text signs must not include GIFs or offensive content and should remain relevant to role-playing. Random, unrelated signs are not allowed. Racist, pornographic, or religiously offensive material is strictly prohibited!",
+	"Use common sense when participating and chatting on the server. Avoid encouraging others to break rules, spamming staff, or engaging in disruptive behavior. Think before you act!",
+        "ERP (Erotic Roleplay) is strictly prohibited! Participating in ERP violates server rules and will lead to a ban. Please adhere to the community guidelines and show respect for others!",
 	"Respect Everyone - Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech!",
 	"We don’t condone racism, homophobia, transphobia, or sexism in any form. No targeted harassment in general. Get that shit outta here. For the love of god no rape jokes and no hateful language or jokes. Use of hateful imagery (such as swastikas, black sun, confederate flag etc.) will also be punished!",
 	"No porn, no gore, there are kids here. Lengthy discussions of inappropriate topics or jokes in poor taste will get you warned so go be horny somewhere else!",
 	"Do not PowerGame - You aren't a superman. You can't attack a group of 2 times larger size than your group. Example: 1 by 2, 2 by 4, etc. (excl. self-defense) [Punishment: warn / Ban 10-20min!",
 	"If you have an argument with another member(s) of this server, please contact a moderator or admin immediately so we can dispute the matter. This is supposed to be a fun place, so if you have to have an argument, please do it in PM!",
-	"You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
 	"Discussing raids or participating in the raids of other servers will not be tolerated here. Raiding another server may result in a permanent ban from this one!",
 	"It's forbidden to stay in the back rooms of the pizzeria during the day (excl. Broken animatronics and plush toys in the basement) [Punishment: warn / Ban 10-20min]!",
-	"KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
-	"You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
+	"KOS signs must be clearly placed at the entrance of a KOS area and should be appropriately sized and colored for visibility. Any attempts to bait players into areas with unclear or obscure KOS signs will result in staff-issued punishment!",
+	"You are not allowed to take control of locations. If you raid a place, you must leave once your objective is achieved. Do NOT remain to obstruct others from returning for an extended period!",
 	"ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
-	"Promoting your own company or organization outside the server is prohibited unless you have explicit permission from the founders. However, in-game businesses are allowed!",
+	"Promoting your company or organization outside the server is prohibited unless you obtain explicit permission from the founders. However, promoting in-game businesses is permitted!",
 	"Listen to Staff - Respect the decisions of our moderators and staff!",
 	"Within our community, the discussion or active involvement in raids on other servers is not endorsed. Participation in such activities may result in a permanent ban from our server!",
 	"Please refrain from metagaming. Actions such as issuing warrants based solely on auditory cues like money printers or meth labs through walls, or relying on information derived from the killfeed, are not permissible!",
@@ -221,7 +220,7 @@ var l_messages = [
 	"It is your responsibility to read and abide by our server rules. These may change over time. Failure to follow will result in punishment. This is a simple list. Follow, and you'll do great!",
 	"Be Respectful: Racism, homophobia, transphobia, sexism, and any form of targeted harassment have no place here. Keep that out of any Discord, GMod server, or ETA-related spaces. Absolutely no rape jokes, hateful language, or hate symbols (e.g., swastikas, Black Sun, Confederate flag). Violations will result in strict consequences!",
 	"No Self-Promotion: Please don’t spam your mixtape we're begging you! Jokes aside, feel free to share your work, but if that’s all you’re here for, trust us, we’ll notice!",
-	"Displaying swastikas, performing the Nazi salute, or any other form of glorifying Nazism is strictly prohibited, even for roleplay purposes. This applies to all server activities!",
+	"The display of swastikas, the Nazi salute, or any other form of glorifying Nazism is strictly forbidden, even in the context of roleplay. This rule applies to all server activities!",
 	"Please do not talk about killing yourself, being worthless, venting your struggles, etc. on this public server. Moderators and other members of the server are not therapists and may not offer the best advice. If you're struggling, we recommend talking to close friends and/or family in a private setting or reaching out for professional medical help. A public discord is not best suited to discussing these issues!",
 	"Fail RP is defined as performing an action or behaving in a way which breaks or inhibits roleplay in any manner. This can include, but is not limited to, bunnyhopping, using /advert OOCly, having an invalid name, necksnapping EOD/OSS, making callouts after you die, prop killing with anything other than rollermines/manhacks, acting conversely to the implied role of a specialized class (such as not attempting to blend in as a disguised SU or kill farming as a pushback class), and/or disrupting the gameplay of others (such as by micspamming!",
 	"If what you're doing or are about to do isn't listed here and you're curious, ask a staff member. If one is not available, use common sense. If you can't find an answer, contact a Head Admin+. Server management has the final say over IC situations!",
@@ -234,7 +233,7 @@ var l_messages = [
         "Offensive humor is NOT okay. With everything going on, with racism and other problems around the world, we (as staff) will be more strict if we need to be!",
         "Unless the voice channel owner specifically allows it, There is to be no use of soundboards in the voice channels. If you have been given permission, please don't spam noises, as others may not want to hear them all the time!",
 	"Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "Breaking the NLR constitutes returning to the place of your death within or before five minutes of your death. This can also mean returning to and/or interacting with the player that killed you. If you are found breaking this rule, it’ll be dealt with by a verbal warning, a written warning, or a ban for repeat offenders. Returning to the vicinity of your base to watch the raiders (even if you aren’t interacting with them) counts as breaking NLR. Don’t do it!"
+        "Breaking the NLR (New Life Rule) involves returning to the location of your death within five minutes or interacting with the player who killed you. Violating this rule may result in a verbal warning, a written warning, or a ban for repeat offenders. Additionally, returning near your base to observe raiders, even without interaction, is also considered breaking NLR. Avoid doing so!"
 
 ];
 
