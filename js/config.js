@@ -229,7 +229,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Text signs must not include GIFs or offensive content and should remain relevant to role-playing. Random, unrelated signs are not allowed. Racist, pornographic, or religiously offensive material is strictly prohibited!",
 	"Follow any cooldowns or restrictions set by the server (e.g., no constant attacking without breaks!",
-	"Stick to Animatronic Behavior: Move slowly and strategically, especially during "active hours!",
+	"Stick to Animatronic Behavior: Move slowly and strategically, especially during active hours!",
 	"Use common sense when participating and chatting on the server. Avoid encouraging others to break rules, spamming staff, or engaging in disruptive behavior. Think before you act!",
         "No Overstepping Abilities: Use only the abilities or mechanics specific to your animatronic (e.g., teleporting as Golden Freddy, but not as Foxy!",
 	"Staff Roles: If you’re playing a staff character (e.g., technician, manager), follow the guidelines for your job. Don’t interfere with gameplay unnecessarily!",
