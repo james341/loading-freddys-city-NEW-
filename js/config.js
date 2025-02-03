@@ -199,6 +199,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
+	{ogg: "synapsonhideaway.ogg", name: "Installation Music"},
 	{ogg: "darxieland.ogg", name: "Installation Music"},
 	{ogg: "lostconstellation.ogg", name: "Installation Music"},
 	{ogg: "youfeelthelove.ogg", name: "Installation Music"},
