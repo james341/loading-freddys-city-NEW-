@@ -201,7 +201,7 @@ var l_musicPlaylist = [
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "darxieland.ogg", name: "Installation Music"},
-	{ogg: "lostconstellation.ogg", name: "Installation Music
+	{ogg: "lostconstellation.ogg", name: "Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "Installation Music"},
 	{ogg: "sleeplessdavetheme.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
