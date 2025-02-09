@@ -199,17 +199,15 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
-	{ogg: "synapsonhideaway.ogg", name: "Installation Music"},
+	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "darxieland.ogg", name: "Installation Music"},
-	{ogg: "lostconstellation.ogg", name: "Installation Music"},
-	{ogg: "youfeelthelove.ogg", name: "Installation Music"},
-	{ogg: "unseenhorrors.ogg", name: "Installation Music"},
+	{ogg: "lostconstellation.ogg", name: "Installation Music
 	{ogg: "flipsidedsaf.ogg", name: "Installation Music"},
 	{ogg: "sleeplessdavetheme.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
-	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"},
+	{ogg: "sbelevatorhappyending.ogg", name: "Installation Music"},
 	{ogg: "soundtrackyeast.ogg", name: "Installation Music"}, 
 ];
 
