@@ -199,12 +199,12 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
-	{ogg: "harrystylesasitwas.ogg", name: "Installation Music"},
+	{ogg: "uapaudiomusic.ogg", name: "Installation Music"},
+	{ogg: "springInmystep.ogg", name: "Installation Music"},
 	{ogg: "adventuresajhimitsu.ogg", name: "Installation Music"},
 	{ogg: "lostconstellation.ogg", name: "Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "Installation Music"},
-	{ogg: "sleeplessdavetheme.ogg", name: "Installation Music"},
-	{ogg: "sbelevatorhappyending.ogg", name: "Installation Music"},
+	{ogg: "jaricoIsland.ogg", name: "Installation Music"},
 	{ogg: "soundtrackyeast.ogg", name: "Installation Music"}, 
 ];
 
@@ -240,7 +240,6 @@ var l_messages = [
 	"No Camping: The Animatronics should not be camping in one location, such as the office, for extended periods unless it aligns with RP or game mechanics!",
 	"Our community enforces a strict zero-tolerance policy towards any form of paedophilia, child exploitation, or grooming. Any individual found engaging in, promoting, or supporting such activities will be immediately blacklisted and banned from our platforms!",
 	"Props must not be abused in any way, including but not limited to prop-blocking, prop-killing, prop-bridging, or prop-spamming!",
-	"No Unreasonable Job Changes: Do not switch jobs just to avoid consequences or bypass cooldowns!",
 	"Only use the 'Alt' key to walk when you're not triggered. Please refrain from killing others simply because they looked at your knee due to the SWEP!",
 	"Your privacy is safe with us. We do not collect your privacy to use it against you, and we don't collect your information at all. We also do not sell your information to anyone!",
 	"No Hate Speech or Harmful Language Offensive language, hate speech, and harmful comments are not tolerated!",
@@ -273,7 +272,6 @@ var l_messages = [
 	"The staff is responsible for maintaining the rules. Arguing with them over their decisions is discouraged. If you believe you were treated unfairly, you may submit a ticket for review in our dsicord server!",
 	"Promoting your company or organization outside the server is prohibited unless you obtain explicit permission from the founders. However, promoting in-game businesses is permitted!",
 	"Within our community, the discussion or active involvement in raids on other servers is not endorsed. Participation in such activities may result in a permanent ban from our server!",
-	"Please refrain from metagaming. Actions such as issuing warrants based solely on auditory cues like money printers or meth labs through walls, or relying on information derived from the killfeed, are not permissible!",
 	"Community management reserves the right to modify the rules at any time without prior notice. Please ensure you stay informed about the latest updates!",
 	"I the player respectfully disagree with the actions taken by the administration, If you find yourself in disagreement with the reason for a kick or ban, you are always free to explore and play on other servers. Please remember that all Garry's Mod servers are community-hosted, and access to them is ultimately at the discretion of their respective administrations!",
 	"Any posted content that the admins or moderators find suggestively offensive in the channels, depending on the situation, will result in anything from a warning to a possible ban!",
