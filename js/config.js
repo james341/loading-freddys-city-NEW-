@@ -197,15 +197,19 @@ var l_musicDisplay = true;
 // (Place the Ogg files in the music folder)
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
-	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
+	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
-	{ogg: "uapaudiomusic.ogg", name: "Installation Music"},
-	{ogg: "springInmystep.ogg", name: "Installation Music"},
-	{ogg: "adventuresajhimitsu.ogg", name: "Installation Music"},
+	{ogg: "davethemeend3.ogg", name: "Installation Music"},
+	{ogg: "davethemeremake.ogg", name: "Installation Music"},
+	{ogg: "schnuffelkuschelsongInstrumentaltwo.ogg", name: "Installation Music"},
+	{ogg: "fnafmoviesongth.ogg", name: "Installation Music"},
+	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
+	{ogg: "incrediblesagain.ogg", name: "Installation Music"},
+	{ogg: "youfeelthelove.ogg", name: "Installation Music"},
 	{ogg: "lostconstellation.ogg", name: "Installation Music"},
 	{ogg: "flipsidedsaf.ogg", name: "Installation Music"},
 	{ogg: "jaricoIsland.ogg", name: "Installation Music"},
-	{ogg: "soundtrackyeast.ogg", name: "Installation Music"}, 
+	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"}, 
 ];
 
 // Random music order?
@@ -261,8 +265,6 @@ var l_messages = [
 	"We are committed to ensuring that everyone enjoys a pleasant experience here. If you have any questions or need assistance, please feel free to reach out to our staff they are always ready to help!",
 	"The use of slurs, such as the N-word, is strictly prohibited. Violations will result in a one-hour timeout as a warning. You will receive up to two warnings; any further violations will lead to removal from the platform!",
 	"Your donation status does not change the fact that you are a valued member of our community. However, it does not place you above our rules or any other expectations. You are still required to follow our guidelines!",
-	"Please use common sense when being active and chatting on the server. Don't encourage people to break rules, don't spam staff, etc. Use your brain!",
-	"Do not discuss about sensitive topics This isn't a debating server, keep sensitive topics out of here so we don't have a ton of nasty arguments!",
 	"Attacking with splash damage through props, walls, or beyond the pizzeria's territory is strictly forbidden. Intentionally attacking animatronics and plush toys outside the pizzeria's territory is also prohibited. Climbing stairs is not allowed (except for Purple Guy in the guise of a security guard). Punishment: Warning / 10-20 minute ban!",
 	"Metagaming and exploiting in-roleplay situations are strictly prohibited, as these actions undermine the immersive experience and detract from the enjoyment of those who approach roleplay with sincerity and dedication!",
 	"No RDM (Random Deathmatch): Attacking or killing other players without a valid in-roleplay reason is strictly prohibited!",
