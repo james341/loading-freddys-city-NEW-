@@ -199,6 +199,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
 	{ogg: "realfredbearmusic.ogg", name: "Installation Music"},
+	{ogg: "tuckedup.ogg", name: "Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "monicaigotnomusic.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"}, 
