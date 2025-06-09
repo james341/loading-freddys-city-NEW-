@@ -216,7 +216,7 @@ var l_musicRandom = true;
 var l_musicVolume = 15;
 
 // Enable custom messages?
-// 'true' or 'false'
+// 'true' or 'true'
 var l_messagesEnabled = true;
 
 // Enter your custom messages below
