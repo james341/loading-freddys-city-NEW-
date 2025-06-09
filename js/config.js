@@ -27,7 +27,7 @@ var l_serverName = "sleekLoad 2";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 // Default available videos:
 // "aurora.webm"
@@ -55,7 +55,7 @@ var l_bgVideo = false;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "bluefall.webm";
+var l_background = "freddyrp.webm";
 
 // (Image-background only)
 // Enable map-based background image?
@@ -182,7 +182,7 @@ var l_bgOverlay = true;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-var l_bgDarkening = 50;
+var l_bgDarkening = 60;
 
 // Play music during the loading screen?
 // 'true' or 'false'
@@ -190,7 +190,7 @@ var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/URLs or ogg files as you want
