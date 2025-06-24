@@ -199,10 +199,9 @@ var l_musicDisplay = false;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
-	{ogg: "biketwo.ogg", name: "Installation Music"}, 
 	{ogg: "davethemeend3.ogg", name: "Installation Music"},
 	{ogg: "realfredbearmusic.ogg", name: "Installation Music"},
-	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
+	{ogg: "superidomusicbox.ogg", name: "Installation Music"},
 	{ogg: "davesbattletheme.ogg", name: "Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "Installation Music"},
 	{ogg: "comesthesunInstrumental.ogg", name: "Installation Music"},
@@ -222,7 +221,7 @@ var l_musicVolume = 15;
 
 // Enable custom messages?
 // 'true' or 'true'
-var l_messagesEnabled = false;
+var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
