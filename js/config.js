@@ -214,8 +214,7 @@ var l_musicPlaylist = [
 	{ogg: "davesbattletheme.ogg", name: "Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "Installation Music"},
 	{ogg: "dsaflifemar.ogg", name: "Installation Music"},
-	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"}, 
-	{ogg: "newdsafmusiccoolrightxd.ogg", name: "Installation Music"},
+	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
 	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"}, 
 ];
 
