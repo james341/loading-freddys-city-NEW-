@@ -288,10 +288,8 @@ var l_messages = [
 	"Ensuring a Safe Environment: We are committed to maintaining a safe and inclusive environment for all members. As such, we will continue to monitor and enforce these rules and regularly review and update them as needed!",
 	"Please abide by the New Life Rule (NLR). You must wait 3 minutes before returning to the location where you died. This rule also applies to ongoing conflicts!",
 	"Mic Spamming/Chat Spamming: Refrain from creating excessive noise or sending repetitive messages that disrupt the gameplay experience for others!",
-	"Advertising of any kind, including direct message (DM) advertising, is strictly prohibited. This includes promoting other servers, communities, or services!",
-	
 	"While disagreements are a natural part of communication, persistent negative behavior or efforts to evade a block or ban constitute harassment and are strictly prohibited!",
-	"You may not act as a security guard for the Police Department. You work at Freddy’s Pizzeria, and your role and jurisdiction are limited strictly to that location!",
+	"You may not act as a security guard for the PD. You work at Freddy’s Pizzeria, and your role and jurisdiction are limited strictly to that location!",
 	"Please Abide by the New Life Rule (NLR). You have to wait 3 minutes until you can go back to the location you died. (This applies to conflict as well!",
 	"No Griefing or Raiding: Respect other players' builds and property. Griefing, raiding, or stealing without valid roleplay justification is strictly Prohibited!",
 	"DDoS or the publicizing of other members’ private information (DOX) will result in a permanent ban. (This includes all/any hacking threats!",
