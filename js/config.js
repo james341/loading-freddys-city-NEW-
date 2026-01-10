@@ -200,6 +200,7 @@ var l_musicDisplay = false;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
+	{ogg: "oceaniatisforheemusic.ogg", name: "Installation Music"},
 	{ogg: "dtwapplacesoundtracks.ogg", name: "Installation Music"},
 	{ogg: "dsaflipsidetheme.ogg", name: "Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Installation Music"},
