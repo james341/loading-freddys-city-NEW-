@@ -234,9 +234,15 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Text signs must not include GIFs or offensive content and should remain relevant to role-playing. Random, unrelated signs are not allowed. Racist, pornographic, or religiously offensive material is strictly prohibited!",
+	"You may only be allowed to accept hits with a purpose or a backstory aka revenge because that guy killed my friend!",
+	"No spam. This includes mic/text/user pings, quickly swapping through voice channels & selling products/services!",
+	"On this server, creativity is your main asset. You are forbidden to upload others work and take credit for it!",
+	"Advertising yourself, your business, other projects or anything of that sort without direct permission from the development team is not allowed. The exception is your S&SMP server!",
 	"Any attempt to impersonate an employee or executive of [AN] will result in an immediate and permanent ban from all [AN] services, including Discord and Garry’s Mod etc!",
+	"Any username that is deemed offensive toward an individual, group, or any other party will be requested for immediate customization. If this request is not met, necessary actions will be taken. This also includes names similar or pertaining to Lost1nPlace!",
 	"The F4 menu can be accessed as you might have guessed it,by pressing the F4 button ingame. Remember this, as it will be a menu that you will use alot in other darkRP servers. The menu is split up into 4 tabs!",
 	"Report any bullying, harassment, or rule violations to a staff member or moderator. More details help us respond faster!",
+	"Accidentally killing someone (crossfire) is not RDM unless on purpose, if someone does walk in the way that is allowed as long as you repay them. ( This rule also applies to Accidentally running someone over with cars!",
 	"Any conduct that is in breach of the following rules will be considered misuse of wiremod, and may result in an immediate removal of your wiremod access or a permanent ban from the server without warning. This includes use of wiremod for non or invalid RP reasons, using E2 to render images, AI, Apply Force, etc!",
 	"No Overpowered Ability Abuse Do not spam abilities, jumpscares, or teleporting to gain unfair advantages!",
 	"Killing or attacking without valid roleplay reasoning is strictly prohibited. No Metagaming!",
@@ -274,6 +280,7 @@ var l_messages = [
 	"Animatronics Must Follow Their Lore Use only abilities specific to your animatronic (e.g., teleporting as Golden Freddy, not Foxy!",
 	"Plase No sharing or distributing hacks, cheats, or other unauthorized tools or services Sharing or distributing hacks, cheats, or other unauthorized tools or services is strictly prohibited on the server!",
 	"Impersonating an employee or executive of [AN] is strictly prohibited, and if found doing so you will be permanently banned from our Discord & Gmod Server!",
+	"This includes but is not limited to: Flooding channels, overly long nicknames or messages, chain posts, copypastas!",
 	"No metagaming or trying to take advantage of it in roleplay. It ruins the fun for those who take roleplaying seriously!",
 	"No RDM: You may not attack or kill other players unless you have a legitimate, roleplay-appropriate reason. Violations will result in punishment!",
 	"Server raiding is against the terms of service. Any attempt to circumvent or bypass them can result in a permanent ban!",
