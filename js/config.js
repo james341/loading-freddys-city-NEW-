@@ -201,6 +201,7 @@ var l_musicDisplay = false;
 var l_musicPlaylist = [
 	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
 	{ogg: "fnaftwosongshitmovie.ogg", name: "Installation Music"},
+	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
 	{ogg: "oceaniatisforheemusic.ogg", name: "Installation Music"},
 	{ogg: "dtwapplacesoundtracks.ogg", name: "Installation Music"},
 	{ogg: "dsaflipsidetheme.ogg", name: "Installation Music"},
