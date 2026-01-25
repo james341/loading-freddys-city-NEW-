@@ -200,7 +200,6 @@ var l_musicDisplay = false;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
-	{ogg: "gtatrilogy.ogg", name: "Installation Music"},
 	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
 	{ogg: "oceaniatisforheemusic.ogg", name: "Installation Music"},
 	{ogg: "dtwapplacesoundtracks.ogg", name: "Installation Music"},
@@ -212,8 +211,6 @@ var l_musicPlaylist = [
 	{ogg: "collmusicbrofromyourdad.ogg", name: "Installation Music"},
 	{ogg: "dsafrealgoodending.ogg", name: "Installation Music"},
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
-	{ogg: "twobirdsregina.ogg", name: "Installation Music"},
-	{ogg: "colldsafblmusic.ogg", name: "Installation Music"},
 	{ogg: "fnafbearfivesshit.ogg", name: "Installation Music"},
 	{ogg: "dsaflifemar.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
@@ -238,7 +235,7 @@ var l_messages = [
 	"The most important thing is not to offend the server participants, especially moderators, testers, administrators, and even more so the server representatives, otherwise you may be kicked out and, in the most extreme case, even banned Therefore, we ask you to respect the server participants equally!",
 	"No Powergaming. You cannot control another player’s actions or force outcomes. Always give others a fair chance to react by using /me attempts!",
 	"Sharing, distributing, or promoting hacks, cheats, or any unauthorized tools or services is strictly prohibited on this server!",
-	"No spam. This includes mic/text/user pings, quickly swapping through voice channels & selling products/services!",
+	"Advertising is prohibited. This includes invasive promotion of other communities, servers, or livestreams. Content may be posted in the media channel only when it is relevant and offers meaningful value to the community!",
 	"Sharing personal information is prohibited. This includes your own or another user’s personal details without their consent, such as phone numbers, addresses, or any other sensitive information!",
 	"Advertising yourself, your business, other projects or anything of that sort without direct permission from the development team is not allowed. The exception is your S&SMP server!",
 	"Any attempt to impersonate an employee or executive of [AN] will result in an immediate and permanent ban from all [AN] services, including Discord and Garry’s Mod etc!",
