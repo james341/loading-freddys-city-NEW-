@@ -213,7 +213,7 @@ var l_musicPlaylist = [
 	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "fnafbearfivesshit.ogg", name: "Installation Music"},
 	{ogg: "dsaflifemar.ogg", name: "Installation Music"},
-	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
+	{ogg: "youfeelthelove.ogg", name: "Installation Music"},
 	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"}, 
 ];
 
@@ -248,7 +248,7 @@ var l_messages = [
 	"Powergaming is prohibited. Forcing actions, reactions, or outcomes onto other players without consent or opportunity to respond is not allowed. All actions must be attempted using /me!",
 	"You may not force actions or outcomes onto other players without their consent or a fair chance to react. Use /me attempts instead of forcing results!",
 	"No advertisements No invasive advertising, whether it be for other communities or streams. You can post your content in the media channel if it’s relevant and provides actual value for the Community!",
-	"No Harassment or Bullying Harassment, discrimination, or targeted abuse is not allowed in any form. Use Reports Properly!",
+	"Under the New Life Rule (NLR), you may not return to the location of your death for 3 minutes. This restriction remains in effect even if the conflict is still ongoing!",
 	"Jobs with a model shorter than 'models/hunter/blocks/cube05x05x05.mdl' are not permitted to engage in combat related RP!",
 	"The sharing or distribution of hacks, cheats, or any unauthorized tools or services is strictly prohibited on this server!",
 	"Do not Fading Door Abuse - using the keybind or other owner/gang/player exclusive methods to open/close doors when involved in a roleplay situation. Example: using your keybind to open/close a door during a base raid or a wiremod trigger that only opens the door for the owner & doesn't hold for the minimum 4 seconds!",
@@ -299,7 +299,7 @@ var l_messages = [
 	"Admins and moderators have the discretion to mute, kick, or ban players as necessary. If you believe you have been treated unfairly, please contact an admin via forms ban appeal, and we will work to resolve the issue!",
 	"Do not attempt/say you are going to DDOS/crash the server Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"Ensuring a Safe Environment: We are committed to maintaining a safe and inclusive environment for all members. As such, we will continue to monitor and enforce these rules and regularly review and update them as needed!",
-	"Please abide by the New Life Rule (NLR). You must wait 3 minutes before returning to the location where you died. This rule also applies to ongoing conflicts!",
+	"NLR: You must wait 3 minutes before returning to the area of your death. This includes ongoing conflicts!",
 	"Mic Spamming/Chat Spamming: Refrain from creating excessive noise or sending repetitive messages that disrupt the gameplay experience for others!",
 	"While disagreements are a natural part of communication, persistent negative behavior or efforts to evade a block or ban constitute harassment and are strictly prohibited!",
 	"You may not act as a security guard for the PD. You work at Freddy’s Pizzeria, and your role and jurisdiction are limited strictly to that location!",
