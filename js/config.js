@@ -201,6 +201,7 @@ var l_musicDisplay = false;
 var l_musicPlaylist = [
 	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
 	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
+	{ogg: "tuckedup.ogg", name: "Installation Music"},
 	{ogg: "musiboxharrystylesastwas.ogg", name: "Installation Music"},
 	{ogg: "dsaflipsidetheme.ogg", name: "Installation Music"},
 	{ogg: "daycarethememusicbox.ogg", name: "Installation Music"},
