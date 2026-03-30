@@ -200,9 +200,7 @@ var l_musicDisplay = false;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "davesmusicmate.ogg", name: "Installation Music"},
-	{ogg: "ulteriormotivesInstrumental.ogg", name: "Installation Music"},
-	{ogg: "wddwdwdwwdmovie.ogg", name: "Installation Music"},
-	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
+	{ogg: "yousidnotknoworsomeshjithazbinhotel.ogg", name: "Installation Music"},
 	{ogg: "yougotthefeelingineed.ogg", name: "Installation Music"},
 	{ogg: "musiboxharrystylesastwas.ogg", name: "Installation Music"},
 	{ogg: "dsaflipsidetheme.ogg", name: "Installation Music"},
@@ -287,8 +285,6 @@ var l_messages = [
 	"No publishing of personal information. This includes real names, home addresses, email addresses, passwords, bank account details, credit card information, or any other private data!",
 	"Do not post nudity in this Discord or GMod server. There are minors here and it is against the rules!",
 	"No RDM: You may not attack or kill other players unless you have a legitimate, roleplay-appropriate reason. Violations will result in punishment!",
-	"The most important rule is to treat all server participants with respect. This includes moderators, testers, administrators, and server representatives. Offensive behavior may result in a kick, and in severe cases, a ban. We ask that you respect all members equally!",
-	"Please do not share or distribute hacks, cheats, or any unauthorized tools or services on this server!",
 	"Erotic Roleplay is strictly prohibited! Participating in ERP violates server rules and will lead to a ban. Please adhere to the community guidelines and show respect for others!",
 	"If you experience bullying, harassment, or see any server rule violations, report it to a staff member or moderator. The more information you provide, the quicker we can take action!",
 	"Collaborative Effort: The safety and well-being of our members, particularly minors, is a shared responsibility. We encourage all members to actively participate in maintaining a safe community by adhering to these rules and reporting any violations they may witness!",
