@@ -199,11 +199,9 @@ var l_musicDisplay = false;
 // (Place the Ogg files in the music folder)
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
-	{ogg: "wartheem.ogg", name: "Installation Music"},
-	{ogg: "boulevardofbrokendreamsmusicbox.ogg", name: "Installation Music"},
+	{ogg: "dsafremixjoyfulream.ogg", name: "Installation Music"},
+	{ogg: "dsafpurejoyextended.ogg", name: "Installation Music"},
 	{ogg: "lionkingw.ogg", name: "Installation Music"},
-	{ogg: "ulteriormotivesInstrumental.ogg", name: "Installation Music"},
-	{ogg: "comesthesunInstrumental.ogg", name: "Installation Music"},
 	{ogg: "fmansshitpeacesilence.ogg", name: "Installation Music"},
 	{ogg: "donstopmenowmusic.ogg", name: "Installation Music"},
 	{ogg: "fnafsbdayecareshit.ogg", name: "Installation Music"},
@@ -211,8 +209,6 @@ var l_musicPlaylist = [
 	{ogg: "newdsafmusiccoolrightxd.ogg", name: "Installation Music"},
 	{ogg: "twobirdsregina.ogg", name: "Installation Music"},
 	{ogg: "yousidnotknoworsomeshjithazbinhotel.ogg", name: "Installation Music"},
-	{ogg: "yougotthefeelingineed.ogg", name: "Installation Music"},
-	{ogg: "sneighbourhood.ogg", name: "Installation Music"},
 	{ogg: "musiboxharrystylesastwas.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
 	{ogg: "joehenrysomethings.ogg", name: "Installation Music"},
