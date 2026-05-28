@@ -200,12 +200,11 @@ var l_musicDisplay = false;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "dsafremixjoyfulream.ogg", name: "Installation Music"},
-	{ogg: "dsafpurejoyextended.ogg", name: "Installation Music"},
-	{ogg: "fmansshitpeacesilence.ogg", name: "Installation Music"},
-	{ogg: "lostconstellation.ogg", name: "Installation Music"},
-	{ogg: "wartheem.ogg", name: "Installation Music"},
+	{ogg: "backstreetboysmusic.ogg", name: "Installation Music"},
+	{ogg: "ryeryeintro.ogg", name: "Installation Music"},
+	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
 	{ogg: "musiboxharrystylesastwas.ogg", name: "Installation Music"},
-	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
+	{ogg: "shitloadingmusic.ogg", name: "Installation Music"},
 	{ogg: "shrekforeversongshit.ogg", name: "Installation Music"},
 	{ogg: "shitloadingmusic.ogg", name: "Installation Music"},
 	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"}, 
