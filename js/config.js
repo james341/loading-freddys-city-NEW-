@@ -202,13 +202,14 @@ var l_musicPlaylist = [
 	{ogg: "dsafremixjoyfulream.ogg", name: "Installation Music"},
 	{ogg: "joehenrysomethings.ogg", name: "Installation Music"},
 	{ogg: "backstreetboysmusic.ogg", name: "Installation Music"},
-	{ogg: "ryeryeintro.ogg", name: "Installation Music"},
+	{ogg: "biketwo.ogg", name: "Installation Music"},
+	{ogg: "allcouldbesavedhday.ogg", name: "Installation Music"},
 	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
 	{ogg: "musiboxharrystylesastwas.ogg", name: "Installation Music"},
 	{ogg: "musiboxharrystylesastwas.ogg", name: "Installation Music"},
-	{ogg: "shitloadingmusic.ogg", name: "Installation Music"},
+	{ogg: "sneighbourhood.ogg", name: "Installation Music"},
 	{ogg: "shrekforeversongshit.ogg", name: "Installation Music"},
-	{ogg: "shitloadingmusic.ogg", name: "Installation Music"},
+	{ogg: "johnyyespapanursery.ogg", name: "Installation Music"},
 	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"}, 
 ];
 
