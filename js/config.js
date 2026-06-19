@@ -201,6 +201,7 @@ var l_musicDisplay = false;
 var l_musicPlaylist = [
 	{ogg: "dsafremixjoyfulream.ogg", name: "Installation Music"},
 	{ogg: "joehenrysomethings.ogg", name: "Installation Music"},
+	{ogg: "moonlianaflores.ogg", name: "Installation Music"},
 	{ogg: "allcouldbesavedhday.ogg", name: "Installation Music"},
 	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
 	{ogg: "sneighbourhood.ogg", name: "Installation Music"},
