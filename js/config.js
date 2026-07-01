@@ -199,18 +199,18 @@ var l_musicDisplay = false;
 // (You can also use an external URL for the Ogg files)
 var l_musicPlaylist = [
 	{ogg: "dsafremixjoyfulream.ogg", name: "Installation Music"},
-	{ogg: "tuckedup.ogg", name: "Installation Music"},
+	{ogg: "evilshitmorty.ogg", name: "Installation Music"},
 	{ogg: "darxieland.ogg", name: "Installation Music"},
-	{ogg: "fnafsongmovie.ogg", name: "Installation Music"},
+	{ogg: "mywayremastered.ogg", name: "Installation Music"},
 	{ogg: "athephoneharrygoodnight.ogg", name: "Installation Music"},
-	{ogg: "fnaftwosongshitmovie.ogg", name: "Installation Music"},
-	{ogg: "fnafmoviesongth.ogg", name: "Installation Music"},
+	{ogg: "fnafbearfivesshit.ogg", name: "Installation Music"},
+	{ogg: "flufflepuffpfudor.ogg", name: "Installation Music"},
 	{ogg: "dsafsuperidol.ogg", name: "Installation Music"},
 	{ogg: "dionnethatfriendsarefor.ogg", name: "Installation Music"},
 	{ogg: "webuiltthiscitystarship.ogg", name: "Installation Music"},
 	{ogg: "thepizzeriashitmusicai.ogg", name: "Installation Music"},
 	{ogg: "dsaffeelingood.ogg", name: "Installation Music"},
-	{ogg: "shitloadingmusic.ogg", name: "Installation Music"},
+	{ogg: "biketwo.ogg", name: "Installation Music"},
 	{ogg: "dayshiftfpizza.ogg", name: "Installation Music"}, 
 ];
 
